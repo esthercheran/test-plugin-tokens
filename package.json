@@ -1,0 +1,9 @@
+{
+  "name": "bc-design-tokens",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "style-dictionary": "^3.1.1"
+  }
+}
