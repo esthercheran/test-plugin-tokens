@@ -1,4 +1,4 @@
-# figma-tokens-example-multi
+# figma-tokens & Style dictionary pipeline.
 
 This repository transforms your tokens stored on Figma Tokens (with GitHub sync enabled) to be automatically transformed with token-transformer and Style Dictionary in a multi-theme environment.
 
