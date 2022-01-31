@@ -85,12 +85,17 @@ SD.registerTransform({
           return "400";
       }
     };
+
+    let weightToNumber = transformedWeight();
+
     console.log(
       "fontWeight/css:",
       prop.value,
       "transformed to",
-      transformedWeight()
+      weightToNumber
     );
+
+    return weightToNumber;
   },
 });
 
