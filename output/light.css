@@ -1,5 +1,19 @@
 .light-theme {
-          --help-text-default-text-color: #6F7592;
+          --heading-xs-font-size: 24px;
+  --heading-s-font-size: 28px;
+  --heading-m-font-size: 32px;
+  --heading-l-font-size: 44px;
+  --heading-xl-font-size: 48px;
+  --heading-xxl-font-size: 64px;
+  --heading-serif-font-family: "IBM Plex Serif";
+  --heading-sans-serif-font-family: "IBM Plex Sans";
+  --heading-mono-font-family: "IBM Plex Mono";
+  --heading-light-font-weight: Light;
+  --heading-regular-font-weight: Regular;
+  --heading-semibold-font-weight: SemiBold;
+  --heading-bold-font-weight: Bold;
+  --heading-line-height: 130%;
+  --help-text-default-text-color: #6F7592;
   --help-text-default-icon-color: #6F7592;
   --help-text-error-text-color: #EB3B46;
   --help-text-error-icon-color: #EB3B46;

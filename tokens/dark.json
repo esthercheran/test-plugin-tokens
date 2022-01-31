@@ -1,4 +1,88 @@
 {
+  "heading": {
+    "xs": {
+      "font-size": {
+        "value": "24px",
+        "type": "fontSizes"
+      }
+    },
+    "s": {
+      "font-size": {
+        "value": "28px",
+        "type": "fontSizes"
+      }
+    },
+    "m": {
+      "font-size": {
+        "value": "32px",
+        "type": "fontSizes"
+      }
+    },
+    "l": {
+      "font-size": {
+        "value": "44px",
+        "type": "fontSizes"
+      }
+    },
+    "xl": {
+      "font-size": {
+        "value": "48px",
+        "type": "fontSizes"
+      }
+    },
+    "xxl": {
+      "font-size": {
+        "value": "64px",
+        "type": "fontSizes"
+      }
+    },
+    "serif": {
+      "font-family": {
+        "value": "IBM Plex Serif",
+        "type": "fontFamilies"
+      }
+    },
+    "sans-serif": {
+      "font-family": {
+        "value": "IBM Plex Sans",
+        "type": "fontFamilies"
+      }
+    },
+    "mono": {
+      "font-family": {
+        "value": "IBM Plex Mono",
+        "type": "fontFamilies"
+      }
+    },
+    "light": {
+      "font-weight": {
+        "value": "Light",
+        "type": "fontWeights"
+      }
+    },
+    "regular": {
+      "font-weight": {
+        "value": "Regular",
+        "type": "fontWeights"
+      }
+    },
+    "semibold": {
+      "font-weight": {
+        "value": "SemiBold",
+        "type": "fontWeights"
+      }
+    },
+    "bold": {
+      "font-weight": {
+        "value": "Bold",
+        "type": "fontWeights"
+      }
+    },
+    "line-height": {
+      "value": "130%",
+      "type": "lineHeights"
+    }
+  },
   "help-text": {
     "default": {
       "text-color": {
