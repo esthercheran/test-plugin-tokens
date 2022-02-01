@@ -1,4 +1,188 @@
 {
+  "radio": {
+    "label": {
+      "font-family": {
+        "value": "IBM Plex Sans",
+        "type": "fontFamilies"
+      },
+      "font-size": {
+        "value": "16px",
+        "type": "fontSizes"
+      },
+      "font-weight": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "font-color": {
+        "value": "#6F7592",
+        "type": "color"
+      }
+    },
+    "button": {
+      "border-width": {
+        "value": 1,
+        "type": "borderWidth"
+      },
+      "border-radius": {
+        "value": "32px",
+        "type": "borderRadius"
+      },
+      "height": {
+        "value": 18,
+        "type": "sizing"
+      },
+      "width": {
+        "value": 18,
+        "type": "sizing"
+      },
+      "unselected": {
+        "default": {
+          "background-color": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "#6F7592",
+            "type": "color"
+          }
+        },
+        "hover": {
+          "background-color": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "#3C4858",
+            "type": "color"
+          }
+        },
+        "disabled": {
+          "background-color": {
+            "value": "#E8EBF2",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "#AAAFC7",
+            "type": "color"
+          }
+        }
+      },
+      "selected": {
+        "default": {
+          "background-color": {
+            "value": "#0096DB",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "#0096DB",
+            "type": "color"
+          }
+        },
+        "hover": {
+          "background-color": {
+            "value": "#006796",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "#006796",
+            "type": "color"
+          }
+        },
+        "disabled": {
+          "background-color": {
+            "value": "#AAAFC7",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "#AAAFC7",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "checkmark": {
+      "border-width": {
+        "value": 1,
+        "type": "borderWidth"
+      },
+      "border-radius": {
+        "value": "32px",
+        "type": "borderRadius"
+      },
+      "height": {
+        "value": 8,
+        "type": "sizing"
+      },
+      "width": {
+        "value": 8,
+        "type": "sizing"
+      },
+      "unselected": {
+        "default": {
+          "background-color": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "#ffffff",
+            "type": "color"
+          }
+        },
+        "hover": {
+          "background-color": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "#ffffff",
+            "type": "color"
+          }
+        },
+        "disabled": {
+          "background-color": {
+            "value": "#E8EBF2",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "#E8EBF2",
+            "type": "color"
+          }
+        }
+      },
+      "selected": {
+        "default": {
+          "background-color": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "#0096DB",
+            "type": "color"
+          }
+        },
+        "hover": {
+          "background-color": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "#006796",
+            "type": "color"
+          }
+        },
+        "disabled": {
+          "background-color": {
+            "value": "#E8EBF2",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "#AAAFC7",
+            "type": "color"
+          }
+        }
+      }
+    }
+  },
   "heading": {
     "xs": {
       "font-size": {
