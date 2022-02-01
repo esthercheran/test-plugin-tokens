@@ -699,7 +699,7 @@
       "type": "fontFamilies"
     },
     "font-weight": {
-      "value": "IBM Plex Sans",
+      "value": "Regular",
       "type": "fontWeights"
     },
     "cta": {
@@ -1730,6 +1730,44 @@
             "type": "color"
           }
         },
+        "selected": {
+          "default": {
+            "border-color": {
+              "value": "#0096DB",
+              "type": "color"
+            },
+            "text-color": {
+              "value": "#0096DB",
+              "type": "color"
+            },
+            "icon-color": {
+              "value": "#0096DB",
+              "type": "color"
+            },
+            "background-color": {
+              "value": "#ffffff",
+              "type": "color"
+            }
+          },
+          "hover": {
+            "border-color": {
+              "value": "#006796",
+              "type": "color"
+            },
+            "text-color": {
+              "value": "#006796",
+              "type": "color"
+            },
+            "icon-color": {
+              "value": "#006796",
+              "type": "color"
+            },
+            "background-color": {
+              "value": "#ffffff",
+              "type": "color"
+            }
+          }
+        },
         "error": {
           "border-color": {
             "value": "#EB3B46",
@@ -1762,7 +1800,7 @@
             "type": "color"
           },
           "border-color": {
-            "value": "#E8EBF2",
+            "value": "#AAAFC7",
             "type": "color"
           }
         },
@@ -2614,6 +2652,10 @@
     },
     "3": {
       "value": 4,
+      "type": "borderWidth"
+    },
+    "4": {
+      "value": 5,
       "type": "borderWidth"
     }
   },
