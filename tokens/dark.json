@@ -1,4 +1,134 @@
 {
+  "checkbox": {
+    "label": {
+      "font-family": {
+        "value": "IBM Plex Sans",
+        "type": "fontFamilies"
+      },
+      "font-size": {
+        "value": "16px",
+        "type": "fontSizes"
+      },
+      "font-weight": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "font-color": {
+        "value": "#6F7592",
+        "type": "color"
+      }
+    },
+    "width": {
+      "value": 18,
+      "type": "sizing"
+    },
+    "height": {
+      "value": 18,
+      "type": "sizing"
+    },
+    "border-radius": {
+      "value": "4px",
+      "type": "borderRadius"
+    },
+    "border-width": {
+      "value": 1,
+      "type": "borderWidth"
+    },
+    "unselected": {
+      "default": {
+        "background-color": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "#6F7592",
+          "type": "color"
+        }
+      },
+      "hover": {
+        "background-color": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "#3C4858",
+          "type": "color"
+        }
+      },
+      "disabled": {
+        "background-color": {
+          "value": "#E8EBF2",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "#E8EBF2",
+          "type": "color"
+        }
+      }
+    },
+    "selected": {
+      "default": {
+        "background-color": {
+          "value": "#0096DB",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "#0096DB",
+          "type": "color"
+        }
+      },
+      "hover": {
+        "background-color": {
+          "value": "#006796",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "#006796",
+          "type": "color"
+        }
+      },
+      "disabled": {
+        "background-color": {
+          "value": "#E8EBF2",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "#E8EBF2",
+          "type": "color"
+        }
+      }
+    },
+    "checkmark": {
+      "width": {
+        "value": 16,
+        "type": "sizing"
+      },
+      "height": {
+        "value": 16,
+        "type": "sizing"
+      },
+      "selected": {
+        "default": {
+          "icon-color": {
+            "value": "#ffffff",
+            "type": "color"
+          }
+        },
+        "hover": {
+          "icon-color": {
+            "value": "#ffffff",
+            "type": "color"
+          }
+        },
+        "disabled": {
+          "icon-color": {
+            "value": "#AAAFC7",
+            "type": "color"
+          }
+        }
+      }
+    }
+  },
   "radio": {
     "label": {
       "font-family": {
