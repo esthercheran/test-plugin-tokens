@@ -69,7 +69,7 @@
           "type": "color"
         },
         "border-color": {
-          "value": "#E8EBF2",
+          "value": "#AAAFC7",
           "type": "color"
         }
       },
@@ -87,21 +87,21 @@
     "selected": {
       "default": {
         "background-color": {
-          "value": "#0096DB",
+          "value": "#00AB8E",
           "type": "color"
         },
         "border-color": {
-          "value": "#0096DB",
+          "value": "#00AB8E",
           "type": "color"
         }
       },
       "hover": {
         "background-color": {
-          "value": "#006796",
+          "value": "#007562",
           "type": "color"
         },
         "border-color": {
-          "value": "#006796",
+          "value": "#007562",
           "type": "color"
         }
       },
@@ -226,7 +226,7 @@
             "type": "color"
           },
           "border-color": {
-            "value": "#E8EBF2",
+            "value": "#AAAFC7",
             "type": "color"
           }
         }
@@ -234,31 +234,31 @@
       "selected": {
         "default": {
           "background-color": {
-            "value": "#0096DB",
+            "value": "#00AB8E",
             "type": "color"
           },
           "border-color": {
-            "value": "#0096DB",
+            "value": "#00AB8E",
             "type": "color"
           }
         },
         "hover": {
           "background-color": {
-            "value": "#006796",
+            "value": "#007562",
             "type": "color"
           },
           "border-color": {
-            "value": "#006796",
+            "value": "#007562",
             "type": "color"
           }
         },
         "disabled": {
           "background-color": {
-            "value": "#E8EBF2",
+            "value": "#AAAFC7",
             "type": "color"
           },
           "border-color": {
-            "value": "#E8EBF2",
+            "value": "#AAAFC7",
             "type": "color"
           }
         }
@@ -320,7 +320,7 @@
             "type": "color"
           },
           "border-color": {
-            "value": "#0096DB",
+            "value": "#00AB8E",
             "type": "color"
           }
         },
@@ -330,7 +330,7 @@
             "type": "color"
           },
           "border-color": {
-            "value": "#006796",
+            "value": "#007562",
             "type": "color"
           }
         },
@@ -340,7 +340,7 @@
             "type": "color"
           },
           "border-color": {
-            "value": "#E8EBF2",
+            "value": "#AAAFC7",
             "type": "color"
           }
         }
@@ -505,6 +505,10 @@
     "font-family": {
       "value": "IBM Plex Sans",
       "type": "fontFamilies"
+    },
+    "space-between": {
+      "value": 8,
+      "type": "spacing"
     },
     "font-weight": {
       "value": "Regular",
@@ -2081,15 +2085,15 @@
         "selected": {
           "default": {
             "border-color": {
-              "value": "#0096DB",
+              "value": "#00AB8E",
               "type": "color"
             },
             "text-color": {
-              "value": "#0096DB",
+              "value": "#00AB8E",
               "type": "color"
             },
             "icon-color": {
-              "value": "#0096DB",
+              "value": "#00AB8E",
               "type": "color"
             },
             "background-color": {
@@ -2099,15 +2103,15 @@
           },
           "hover": {
             "border-color": {
-              "value": "#006796",
+              "value": "#007562",
               "type": "color"
             },
             "text-color": {
-              "value": "#006796",
+              "value": "#007562",
               "type": "color"
             },
             "icon-color": {
-              "value": "#006796",
+              "value": "#007562",
               "type": "color"
             },
             "background-color": {
@@ -2148,7 +2152,7 @@
             "type": "color"
           },
           "border-color": {
-            "value": "#E8EBF2",
+            "value": "#AAAFC7",
             "type": "color"
           }
         },
@@ -2188,7 +2192,7 @@
             "type": "color"
           },
           "focus-ring": {
-            "value": "#0096DB",
+            "value": "#00AB8E",
             "type": "color"
           }
         }
@@ -2669,6 +2673,12 @@
             "value": 20,
             "type": "spacing"
           }
+        }
+      },
+      "inputs": {
+        "space-between": {
+          "value": 8,
+          "type": "spacing"
         }
       },
       "feedback": {

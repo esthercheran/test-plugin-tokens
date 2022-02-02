@@ -506,6 +506,10 @@
       "value": "IBM Plex Sans",
       "type": "fontFamilies"
     },
+    "space-between": {
+      "value": 8,
+      "type": "spacing"
+    },
     "font-weight": {
       "value": "Regular",
       "type": "fontWeights"
@@ -2669,6 +2673,12 @@
             "value": 20,
             "type": "spacing"
           }
+        }
+      },
+      "inputs": {
+        "space-between": {
+          "value": 8,
+          "type": "spacing"
         }
       },
       "feedback": {

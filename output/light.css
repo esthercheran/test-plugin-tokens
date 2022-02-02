@@ -95,6 +95,7 @@
   --help-text-xl-text-size: 20px;
   --help-text-xl-icon-size: 20px;
   --help-text-font-family: "IBM Plex Sans";
+  --help-text-space-between: 8px;
   --help-text-font-weight: 400;
   --alert-width: 72px;
   --alert-padding-top: 16px;
@@ -570,6 +571,7 @@
   --semantic-spacing-actions-extra-large-padding-right: 16px;
   --semantic-spacing-actions-extra-large-padding-top: 20px;
   --semantic-spacing-actions-extra-large-padding-bottom: 20px;
+  --semantic-spacing-inputs-space-between: 8px;
   --semantic-spacing-feedback-padding-left: 16px;
   --semantic-spacing-feedback-padding-right: 16px;
   --semantic-spacing-feedback-padding-top: 16px;
