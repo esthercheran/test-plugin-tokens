@@ -26,10 +26,10 @@
   --checkbox-selected-error-border-color: #EB3B46;
   --checkbox-checkmark-width: 16px;
   --checkbox-checkmark-height: 16px;
-  --checkbox-checkmark-selected-default-icon-color: #0096DB;
-  --checkbox-checkmark-selected-hover-icon-color: #0096DB;
+  --checkbox-checkmark-selected-default-icon-color: #ffffff;
+  --checkbox-checkmark-selected-hover-icon-color: #ffffff;
   --checkbox-checkmark-selected-disabled-icon-color: #AAAFC7;
-  --checkbox-checkmark-selected-error-icon-color: #EB3B46;
+  --checkbox-checkmark-selected-error-icon-color: #ffffff;
   --radio-label-font-family: "IBM Plex Sans";
   --radio-label-font-size: 16px;
   --radio-label-font-weight: 400;

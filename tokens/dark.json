@@ -138,13 +138,13 @@
       "selected": {
         "default": {
           "icon-color": {
-            "value": "#0096DB",
+            "value": "#ffffff",
             "type": "color"
           }
         },
         "hover": {
           "icon-color": {
-            "value": "#0096DB",
+            "value": "#ffffff",
             "type": "color"
           }
         },
@@ -156,7 +156,7 @@
         },
         "error": {
           "icon-color": {
-            "value": "#EB3B99",
+            "value": "#ffffff",
             "type": "color"
           }
         }
