@@ -1,8 +1,9 @@
-const StyleDictionaryPackage = require("style-dictionary");
+const SD = require("style-dictionary");
 
-// HAVE THE STYLE DICTIONARY CONFIG DYNAMICALLY GENERATED
-
-StyleDictionaryPackage.registerFormat({
+/**
+ * HAVE THE STYLE DICTIONARY CONFIG DYNAMICALLY GENERATED
+ */
+SD.registerFormat({
   name: "css/variables",
   formatter: function (dictionary, config) {
     return `${this.selector} {
@@ -13,7 +14,10 @@ StyleDictionaryPackage.registerFormat({
   },
 });
 
-StyleDictionaryPackage.registerTransform({
+/**
+ * Transform: Sizes to px
+ */
+SD.registerTransform({
   name: "sizes/px",
   type: "value",
   matcher: function (prop) {
@@ -33,8 +37,10 @@ StyleDictionaryPackage.registerTransform({
   },
 });
 
-// Wraps the value of font families in a double-quoted string to make a string literal.
-StyleDictionaryPackage.registerTransform({
+/**
+ * Transform: Wraps the value of font families in a double-quoted string to make a string literal.
+ */
+SD.registerTransform({
   name: "fontFamily/literal",
   type: "value",
   matcher: function (prop) {
@@ -42,6 +48,54 @@ StyleDictionaryPackage.registerTransform({
   },
   transformer: function (prop) {
     return `"${prop.original.value}"`;
+  },
+});
+
+/**
+ * Transform: Font-weight to number
+ * Figma tokens requires a format like: normal, semiBold, etc
+ * CSS requires a format like: 400, 600, etc
+ * To make this work, we need to add both values to the token. The 'value' holds the figma token value, the 'default' holds the css value.
+ *
+ * FIXME: This is a hack, but it works. Need to have a more elegant way of transforming the values.
+ *        Need references to work when transforming fro Figma to SD.
+ */
+SD.registerTransform({
+  name: `fontWeight/css`,
+  type: `value`,
+  transitive: true,
+  matcher: (prop) => {
+    return ["fontWeights"].includes(prop.type);
+  },
+  transformer: (prop) => {
+    // return a number based fontWeight value based on prop.value
+    let transformedWeight = () => {
+      switch (prop.value) {
+        case "Light":
+          return "300";
+        case "Regular":
+          return "400";
+        case "SemiBold":
+          return "600";
+        case "Bold":
+          return "700";
+        case "ExtraBold":
+          return "800";
+        default:
+          return "400";
+      }
+    };
+
+    let weightToNumber = transformedWeight();
+
+    console.log(
+      "fontWeight/css:",
+      prop.value,
+      "transformed to",
+      weightToNumber
+    );
+
+    return weightToNumber;
   },
 });
 
@@ -55,6 +109,7 @@ function getStyleDictionaryConfig(theme) {
           "name/cti/kebab",
           "sizes/px",
           "fontFamily/literal",
+          "fontWeight/css",
         ],
         buildPath: `output/`,
         files: [
@@ -77,9 +132,7 @@ console.log("Build started...");
   console.log("\n==============================================");
   console.log(`\nProcessing: [${theme}]`);
 
-  const StyleDictionary = StyleDictionaryPackage.extend(
-    getStyleDictionaryConfig(theme)
-  );
+  const StyleDictionary = SD.extend(getStyleDictionaryConfig(theme));
 
   StyleDictionary.buildPlatform("web");
 
