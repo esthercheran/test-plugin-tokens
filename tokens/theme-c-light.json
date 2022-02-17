@@ -4055,9 +4055,8 @@
         },
         "read-only": {
           "border-color": {
-            "value": "{semantic.color.inputs.deafult.border-color}",
-            "type": "color",
-            "failedToResolve": true
+            "value": "#d1d5db",
+            "type": "color"
           }
         },
         "background-color": {
@@ -4108,14 +4107,12 @@
         },
         "read-only": {
           "border-color": {
-            "value": "{semantic.color.inputs.deafult.border-color}",
-            "type": "color",
-            "failedToResolve": true
+            "value": "#d1d5db",
+            "type": "color"
           },
           "background-color": {
-            "value": "{semantic.color.inputs.deafult.background-color}",
-            "type": "color",
-            "failedToResolve": true
+            "value": "#ffffff",
+            "type": "color"
           }
         }
       }
