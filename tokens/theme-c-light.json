@@ -6,11 +6,11 @@
         "type": "color"
       },
       "muted": {
-        "value": "#374151",
+        "value": "#334155",
         "type": "color"
       },
       "subtle": {
-        "value": "#6b7280",
+        "value": "#94a3b8",
         "type": "color"
       },
       "on-accent": {
@@ -18,15 +18,15 @@
         "type": "color"
       },
       "on-disabled": {
-        "value": "#6b7280",
+        "value": "#64748b",
         "type": "color"
       },
       "disabled": {
-        "value": "#d1d5db",
+        "value": "#cbd5e1",
         "type": "color"
       },
       "accent": {
-        "value": "#818cf8",
+        "value": "#4f46e5",
         "type": "color"
       }
     },
@@ -36,11 +36,11 @@
         "type": "color"
       },
       "muted": {
-        "value": "#d1d5db",
+        "value": "#cbd5e1",
         "type": "color"
       },
       "subtle": {
-        "value": "#f3f4f6",
+        "value": "#f1f5f9",
         "type": "color"
       },
       "canvas": {
@@ -50,19 +50,19 @@
     },
     "cta": {
       "default": {
-        "value": "#818cf8",
+        "value": "#4f46e5",
         "type": "color"
       },
       "emphasised": {
-        "value": "#0d9488",
+        "value": "#4338ca",
         "type": "color"
       },
       "muted": {
-        "value": "#2dd4bf",
+        "value": "#6366f1",
         "type": "color"
       },
       "subtle": {
-        "value": "#ccfbf1",
+        "value": "#e0e7ff",
         "type": "color"
       },
       "disabled": {
@@ -76,15 +76,15 @@
         "type": "color"
       },
       "emphasised": {
-        "value": "#0d9488",
+        "value": "#475569",
         "type": "color"
       },
       "muted": {
-        "value": "#2dd4bf",
+        "value": "#94a3b8",
         "type": "color"
       },
       "subtle": {
-        "value": "#ccfbf1",
+        "value": "#f1f5f9",
         "type": "color"
       },
       "disabled": {
@@ -98,19 +98,19 @@
         "type": "color"
       },
       "emphasised": {
-        "value": "#6b7280",
+        "value": "#64748b",
         "type": "color"
       },
       "muted": {
-        "value": "#d1d5db",
+        "value": "#cbd5e1",
         "type": "color"
       },
       "subtle": {
-        "value": "#f3f4f6",
+        "value": "#f1f5f9",
         "type": "color"
       },
       "disabled": {
-        "value": "#9ca3af",
+        "value": "#94a3b8",
         "type": "color"
       }
     },
@@ -336,7 +336,7 @@
           },
           "hover": {
             "border-color": {
-              "value": "#2dd4bf",
+              "value": "#94a3b8",
               "type": "color"
             },
             "quiet-border-color": {
@@ -352,17 +352,17 @@
               "type": "color"
             },
             "background-color": {
-              "value": "#2dd4bf",
+              "value": "#94a3b8",
               "type": "color"
             },
             "quiet-background-color": {
-              "value": "#2dd4bf",
+              "value": "#94a3b8",
               "type": "color"
             }
           },
           "active": {
             "border-color": {
-              "value": "#0d9488",
+              "value": "#475569",
               "type": "color"
             },
             "quiet-border-color": {
@@ -378,11 +378,11 @@
               "type": "color"
             },
             "background-color": {
-              "value": "#0d9488",
+              "value": "#475569",
               "type": "color"
             },
             "quiet-background-color": {
-              "value": "#0d9488",
+              "value": "#475569",
               "type": "color"
             }
           },
@@ -442,7 +442,7 @@
           },
           "hover": {
             "border-color": {
-              "value": "#d1d5db",
+              "value": "#cbd5e1",
               "type": "color"
             },
             "quiet-border-color": {
@@ -458,17 +458,17 @@
               "type": "color"
             },
             "background-color": {
-              "value": "#d1d5db",
+              "value": "#cbd5e1",
               "type": "color"
             },
             "quiet-background-color": {
-              "value": "#d1d5db",
+              "value": "#cbd5e1",
               "type": "color"
             }
           },
           "active": {
             "border-color": {
-              "value": "#6b7280",
+              "value": "#64748b",
               "type": "color"
             },
             "quiet-border-color": {
@@ -484,11 +484,11 @@
               "type": "color"
             },
             "background-color": {
-              "value": "#6b7280",
+              "value": "#64748b",
               "type": "color"
             },
             "quiet-background-color": {
-              "value": "#6b7280",
+              "value": "#64748b",
               "type": "color"
             }
           },
@@ -628,7 +628,7 @@
         "cta": {
           "default": {
             "border-color": {
-              "value": "#818cf8",
+              "value": "#4f46e5",
               "type": "color"
             },
             "text-color": {
@@ -636,13 +636,13 @@
               "type": "color"
             },
             "background-color": {
-              "value": "#818cf8",
+              "value": "#4f46e5",
               "type": "color"
             }
           },
           "hover": {
             "border-color": {
-              "value": "#2dd4bf",
+              "value": "#6366f1",
               "type": "color"
             },
             "text-color": {
@@ -650,13 +650,13 @@
               "type": "color"
             },
             "background-color": {
-              "value": "#2dd4bf",
+              "value": "#6366f1",
               "type": "color"
             }
           },
           "active": {
             "border-color": {
-              "value": "#0d9488",
+              "value": "#4338ca",
               "type": "color"
             },
             "text-color": {
@@ -664,13 +664,13 @@
               "type": "color"
             },
             "background-color": {
-              "value": "#0d9488",
+              "value": "#4338ca",
               "type": "color"
             }
           },
           "focus": {
             "border-color": {
-              "value": "#818cf8",
+              "value": "#4f46e5",
               "type": "color"
             },
             "text-color": {
@@ -678,22 +678,22 @@
               "type": "color"
             },
             "background-color": {
-              "value": "#818cf8",
+              "value": "#4f46e5",
               "type": "color"
             }
           }
         },
         "disabled": {
           "background-color": {
-            "value": "#d1d5db",
+            "value": "#cbd5e1",
             "type": "color"
           },
           "text-color": {
-            "value": "#6b7280",
+            "value": "#64748b",
             "type": "color"
           },
           "border-color": {
-            "value": "#d1d5db",
+            "value": "#cbd5e1",
             "type": "color"
           }
         }
@@ -701,15 +701,15 @@
       "inputs": {
         "default": {
           "border-color": {
-            "value": "#d1d5db",
+            "value": "#cbd5e1",
             "type": "color"
           },
           "text-color": {
-            "value": "#374151",
+            "value": "#334155",
             "type": "color"
           },
           "icon-color": {
-            "value": "#374151",
+            "value": "#334155",
             "type": "color"
           },
           "background-color": {
@@ -720,15 +720,15 @@
         "selected": {
           "default": {
             "border-color": {
-              "value": "#818cf8",
+              "value": "#4f46e5",
               "type": "color"
             },
             "text-color": {
-              "value": "#818cf8",
+              "value": "#4f46e5",
               "type": "color"
             },
             "icon-color": {
-              "value": "#818cf8",
+              "value": "#4f46e5",
               "type": "color"
             },
             "background-color": {
@@ -738,15 +738,15 @@
           },
           "hover": {
             "border-color": {
-              "value": "#2dd4bf",
+              "value": "#6366f1",
               "type": "color"
             },
             "text-color": {
-              "value": "#2dd4bf",
+              "value": "#6366f1",
               "type": "color"
             },
             "icon-color": {
-              "value": "#2dd4bf",
+              "value": "#6366f1",
               "type": "color"
             },
             "background-color": {
@@ -775,7 +775,7 @@
         },
         "disabled": {
           "background-color": {
-            "value": "#6b7280",
+            "value": "#64748b",
             "type": "color"
           },
           "text-color": {
@@ -787,21 +787,21 @@
             "type": "color"
           },
           "border-color": {
-            "value": "#d1d5db",
+            "value": "#cbd5e1",
             "type": "color"
           }
         },
         "hover": {
           "border-color": {
-            "value": "#d1d5db",
+            "value": "#cbd5e1",
             "type": "color"
           },
           "text-color": {
-            "value": "#374151",
+            "value": "#334155",
             "type": "color"
           },
           "icon-color": {
-            "value": "#374151",
+            "value": "#334155",
             "type": "color"
           },
           "background-color": {
@@ -811,15 +811,15 @@
         },
         "focus": {
           "border-color": {
-            "value": "#d1d5db",
+            "value": "#cbd5e1",
             "type": "color"
           },
           "text-color": {
-            "value": "#374151",
+            "value": "#334155",
             "type": "color"
           },
           "icon-color": {
-            "value": "#374151",
+            "value": "#334155",
             "type": "color"
           },
           "background-color": {
@@ -1074,11 +1074,11 @@
       },
       "navigation": {
         "background-color": {
-          "value": "#818cf8",
+          "value": "#4f46e5",
           "type": "color"
         },
         "border-color": {
-          "value": "#0d9488",
+          "value": "#4338ca",
           "type": "color"
         },
         "font-color": {
@@ -1397,33 +1397,33 @@
         "type": "color"
       },
       "text": {
-        "value": "#374151",
+        "value": "#334155",
         "type": "color"
       },
       "placeholder": {
-        "value": "#6b7280",
+        "value": "#94a3b8",
         "type": "color"
       },
       "border": {
         "default": {
-          "value": "#d1d5db",
+          "value": "#cbd5e1",
           "type": "color"
         },
         "disabled": {
-          "value": "#d1d5db",
+          "value": "#cbd5e1",
           "type": "color"
         }
       },
       "fg": {
         "disabled": {
-          "value": "#6b7280",
+          "value": "#64748b",
           "type": "color"
         }
       }
     },
     "border": {
       "default": {
-        "value": "#f3f4f6",
+        "value": "#f1f5f9",
         "type": "color"
       },
       "radius": {
@@ -2098,7 +2098,7 @@
       }
     },
     "background-color": {
-      "value": "#818cf8",
+      "value": "#4f46e5",
       "type": "color"
     },
     "font-family": {
@@ -2106,7 +2106,7 @@
       "type": "fontFamilies"
     },
     "border-color": {
-      "value": "#0d9488",
+      "value": "#4338ca",
       "type": "color"
     }
   },
@@ -2130,7 +2130,7 @@
     "cta": {
       "default": {
         "background-color": {
-          "value": "#818cf8",
+          "value": "#4f46e5",
           "type": "color"
         },
         "text-color": {
@@ -2138,7 +2138,7 @@
           "type": "color"
         },
         "border-color": {
-          "value": "#818cf8",
+          "value": "#4f46e5",
           "type": "color"
         },
         "icon-color": {
@@ -2148,7 +2148,7 @@
       },
       "hover": {
         "background-color": {
-          "value": "#2dd4bf",
+          "value": "#6366f1",
           "type": "color"
         },
         "text-color": {
@@ -2156,7 +2156,7 @@
           "type": "color"
         },
         "border-color": {
-          "value": "#2dd4bf",
+          "value": "#6366f1",
           "type": "color"
         },
         "icon-color": {
@@ -2166,7 +2166,7 @@
       },
       "active": {
         "background-color": {
-          "value": "#0d9488",
+          "value": "#4338ca",
           "type": "color"
         },
         "text-color": {
@@ -2174,7 +2174,7 @@
           "type": "color"
         },
         "border-color": {
-          "value": "#0d9488",
+          "value": "#4338ca",
           "type": "color"
         },
         "icon-color": {
@@ -2184,7 +2184,7 @@
       },
       "focus": {
         "background-color": {
-          "value": "#818cf8",
+          "value": "#4f46e5",
           "type": "color"
         },
         "text-color": {
@@ -2192,7 +2192,7 @@
           "type": "color"
         },
         "border-color": {
-          "value": "#818cf8",
+          "value": "#4f46e5",
           "type": "color"
         },
         "icon-color": {
@@ -2238,11 +2238,11 @@
       },
       "hover": {
         "background-color": {
-          "value": "#2dd4bf",
+          "value": "#94a3b8",
           "type": "color"
         },
         "quiet-background-color": {
-          "value": "#2dd4bf",
+          "value": "#94a3b8",
           "type": "color"
         },
         "text-color": {
@@ -2254,7 +2254,7 @@
           "type": "color"
         },
         "border-color": {
-          "value": "#2dd4bf",
+          "value": "#94a3b8",
           "type": "color"
         },
         "quiet-border-color": {
@@ -2272,11 +2272,11 @@
       },
       "active": {
         "background-color": {
-          "value": "#0d9488",
+          "value": "#475569",
           "type": "color"
         },
         "quiet-background-color": {
-          "value": "#0d9488",
+          "value": "#475569",
           "type": "color"
         },
         "text-color": {
@@ -2288,7 +2288,7 @@
           "type": "color"
         },
         "border-color": {
-          "value": "#0d9488",
+          "value": "#475569",
           "type": "color"
         },
         "quiet-border-color": {
@@ -2376,11 +2376,11 @@
       },
       "hover": {
         "background-color": {
-          "value": "#d1d5db",
+          "value": "#cbd5e1",
           "type": "color"
         },
         "quiet-background-color": {
-          "value": "#d1d5db",
+          "value": "#cbd5e1",
           "type": "color"
         },
         "text-color": {
@@ -2392,7 +2392,7 @@
           "type": "color"
         },
         "border-color": {
-          "value": "#d1d5db",
+          "value": "#cbd5e1",
           "type": "color"
         },
         "quiet-border-color": {
@@ -2410,11 +2410,11 @@
       },
       "active": {
         "background-color": {
-          "value": "#6b7280",
+          "value": "#64748b",
           "type": "color"
         },
         "quiet-background-color": {
-          "value": "#6b7280",
+          "value": "#64748b",
           "type": "color"
         },
         "text-color": {
@@ -2426,7 +2426,7 @@
           "type": "color"
         },
         "border-color": {
-          "value": "#6b7280",
+          "value": "#64748b",
           "type": "color"
         },
         "quiet-border-color": {
@@ -2617,19 +2617,19 @@
     },
     "disabled": {
       "background-color": {
-        "value": "#d1d5db",
+        "value": "#cbd5e1",
         "type": "color"
       },
       "text-color": {
-        "value": "#6b7280",
+        "value": "#64748b",
         "type": "color"
       },
       "border-color": {
-        "value": "#d1d5db",
+        "value": "#cbd5e1",
         "type": "color"
       },
       "icon-color": {
-        "value": "#6b7280",
+        "value": "#64748b",
         "type": "color"
       }
     },
@@ -2748,6 +2748,74 @@
     "line-height": {
       "value": "100%",
       "type": "lineHeights"
+    }
+  },
+  "link": {
+    "primary": {
+      "default": {
+        "font-color": {
+          "value": "#ffffff",
+          "type": "color"
+        }
+      },
+      "hover": {
+        "font-color": {
+          "value": "#ffffff",
+          "type": "color"
+        }
+      },
+      "visited": {
+        "font-color": {
+          "value": "#ffffff",
+          "type": "color"
+        }
+      }
+    },
+    "secondary": {
+      "default": {
+        "font-color": {
+          "value": "#4b5563",
+          "type": "color"
+        }
+      },
+      "hover": {
+        "font-color": {
+          "value": "#94a3b8",
+          "type": "color"
+        }
+      },
+      "visited": {
+        "font-color": {
+          "value": "#ffffff",
+          "type": "color"
+        }
+      }
+    },
+    "on-background": {
+      "default": {
+        "font-color": {
+          "value": "#ffffff",
+          "type": "color"
+        }
+      },
+      "hover": {
+        "font-color": {
+          "value": "#ffffff",
+          "type": "color"
+        }
+      },
+      "visited": {
+        "font-color": {
+          "value": "#ffffff",
+          "type": "color"
+        }
+      }
+    },
+    "disabled": {
+      "font-color": {
+        "value": "#64748b",
+        "type": "color"
+      }
     }
   },
   "tag": {
@@ -3141,7 +3209,7 @@
     },
     "default": {
       "text-color": {
-        "value": "#374151",
+        "value": "#334155",
         "type": "color"
       }
     }
@@ -3275,11 +3343,11 @@
   "help-text": {
     "default": {
       "text-color": {
-        "value": "#374151",
+        "value": "#334155",
         "type": "color"
       },
       "icon-color": {
-        "value": "#374151",
+        "value": "#334155",
         "type": "color"
       }
     },
@@ -3479,7 +3547,7 @@
         "type": "fontWeights"
       },
       "font-color": {
-        "value": "#374151",
+        "value": "#334155",
         "type": "color"
       }
     },
@@ -3507,7 +3575,7 @@
             "type": "color"
           },
           "border-color": {
-            "value": "#d1d5db",
+            "value": "#cbd5e1",
             "type": "color"
           }
         },
@@ -3517,17 +3585,17 @@
             "type": "color"
           },
           "border-color": {
-            "value": "#d1d5db",
+            "value": "#cbd5e1",
             "type": "color"
           }
         },
         "disabled": {
           "background-color": {
-            "value": "#6b7280",
+            "value": "#64748b",
             "type": "color"
           },
           "border-color": {
-            "value": "#d1d5db",
+            "value": "#cbd5e1",
             "type": "color"
           }
         }
@@ -3535,31 +3603,31 @@
       "selected": {
         "default": {
           "background-color": {
-            "value": "#818cf8",
+            "value": "#4f46e5",
             "type": "color"
           },
           "border-color": {
-            "value": "#818cf8",
+            "value": "#4f46e5",
             "type": "color"
           }
         },
         "hover": {
           "background-color": {
-            "value": "#2dd4bf",
+            "value": "#6366f1",
             "type": "color"
           },
           "border-color": {
-            "value": "#2dd4bf",
+            "value": "#6366f1",
             "type": "color"
           }
         },
         "disabled": {
           "background-color": {
-            "value": "#d1d5db",
+            "value": "#cbd5e1",
             "type": "color"
           },
           "border-color": {
-            "value": "#d1d5db",
+            "value": "#cbd5e1",
             "type": "color"
           }
         }
@@ -3605,11 +3673,11 @@
         },
         "disabled": {
           "background-color": {
-            "value": "#6b7280",
+            "value": "#64748b",
             "type": "color"
           },
           "border-color": {
-            "value": "#6b7280",
+            "value": "#64748b",
             "type": "color"
           }
         }
@@ -3621,7 +3689,7 @@
             "type": "color"
           },
           "border-color": {
-            "value": "#818cf8",
+            "value": "#4f46e5",
             "type": "color"
           }
         },
@@ -3631,17 +3699,17 @@
             "type": "color"
           },
           "border-color": {
-            "value": "#2dd4bf",
+            "value": "#6366f1",
             "type": "color"
           }
         },
         "disabled": {
           "background-color": {
-            "value": "#6b7280",
+            "value": "#64748b",
             "type": "color"
           },
           "border-color": {
-            "value": "#d1d5db",
+            "value": "#cbd5e1",
             "type": "color"
           }
         }
@@ -3664,7 +3732,7 @@
       },
       "default": {
         "font-color": {
-          "value": "#374151",
+          "value": "#334155",
           "type": "color"
         }
       },
@@ -3698,7 +3766,7 @@
           "type": "color"
         },
         "border-color": {
-          "value": "#d1d5db",
+          "value": "#cbd5e1",
           "type": "color"
         }
       },
@@ -3708,17 +3776,17 @@
           "type": "color"
         },
         "border-color": {
-          "value": "#d1d5db",
+          "value": "#cbd5e1",
           "type": "color"
         }
       },
       "disabled": {
         "background-color": {
-          "value": "#6b7280",
+          "value": "#64748b",
           "type": "color"
         },
         "border-color": {
-          "value": "#d1d5db",
+          "value": "#cbd5e1",
           "type": "color"
         }
       },
@@ -3736,31 +3804,31 @@
     "selected": {
       "default": {
         "background-color": {
-          "value": "#818cf8",
+          "value": "#4f46e5",
           "type": "color"
         },
         "border-color": {
-          "value": "#818cf8",
+          "value": "#4f46e5",
           "type": "color"
         }
       },
       "hover": {
         "background-color": {
-          "value": "#2dd4bf",
+          "value": "#6366f1",
           "type": "color"
         },
         "border-color": {
-          "value": "#2dd4bf",
+          "value": "#6366f1",
           "type": "color"
         }
       },
       "disabled": {
         "background-color": {
-          "value": "#6b7280",
+          "value": "#64748b",
           "type": "color"
         },
         "border-color": {
-          "value": "#6b7280",
+          "value": "#64748b",
           "type": "color"
         }
       },
@@ -3945,7 +4013,7 @@
         "type": "fontWeight"
       },
       "default": {
-        "value": "#374151",
+        "value": "#334155",
         "type": "color"
       }
     },
@@ -3953,31 +4021,31 @@
       "unselected": {
         "default": {
           "border-color": {
-            "value": "#d1d5db",
+            "value": "#cbd5e1",
             "type": "color"
           }
         },
         "hover": {
           "border-color": {
-            "value": "#d1d5db",
+            "value": "#cbd5e1",
             "type": "color"
           }
         },
         "focus": {
           "background-color": {
-            "value": "#d1d5db",
+            "value": "#cbd5e1",
             "type": "color"
           }
         },
         "disabled": {
           "background-color": {
-            "value": "#d1d5db",
+            "value": "#cbd5e1",
             "type": "color"
           }
         },
         "read-only": {
           "background-color": {
-            "value": "#d1d5db",
+            "value": "#cbd5e1",
             "type": "color"
           }
         }
@@ -3985,7 +4053,7 @@
       "selected": {
         "default": {
           "border-color": {
-            "value": "#818cf8",
+            "value": "#4f46e5",
             "type": "color"
           },
           "background-color": {
@@ -3995,7 +4063,7 @@
         },
         "hover": {
           "border-color": {
-            "value": "#2dd4bf",
+            "value": "#6366f1",
             "type": "color"
           },
           "background-color": {
@@ -4005,19 +4073,19 @@
         },
         "focus": {
           "border-color": {
-            "value": "#d1d5db",
+            "value": "#cbd5e1",
             "type": "color"
           }
         },
         "disabled": {
           "border-color": {
-            "value": "#d1d5db",
+            "value": "#cbd5e1",
             "type": "color"
           }
         },
         "read-only": {
           "border-color": {
-            "value": "#d1d5db",
+            "value": "#cbd5e1",
             "type": "color"
           }
         }
@@ -4031,31 +4099,31 @@
       "unselected": {
         "default": {
           "border-color": {
-            "value": "#d1d5db",
+            "value": "#cbd5e1",
             "type": "color"
           }
         },
         "hover": {
           "border-color": {
-            "value": "#d1d5db",
+            "value": "#cbd5e1",
             "type": "color"
           }
         },
         "focus": {
           "border-color": {
-            "value": "#d1d5db",
+            "value": "#cbd5e1",
             "type": "color"
           }
         },
         "disabled": {
           "border-color": {
-            "value": "#d1d5db",
+            "value": "#cbd5e1",
             "type": "color"
           }
         },
         "read-only": {
           "border-color": {
-            "value": "#d1d5db",
+            "value": "#cbd5e1",
             "type": "color"
           }
         },
@@ -4067,7 +4135,7 @@
       "selected": {
         "default": {
           "border-color": {
-            "value": "#d1d5db",
+            "value": "#cbd5e1",
             "type": "color"
           },
           "background-color": {
@@ -4077,7 +4145,7 @@
         },
         "hover": {
           "border-color": {
-            "value": "#d1d5db",
+            "value": "#cbd5e1",
             "type": "color"
           },
           "background-color": {
@@ -4087,7 +4155,7 @@
         },
         "focus": {
           "border-color": {
-            "value": "#d1d5db",
+            "value": "#cbd5e1",
             "type": "color"
           },
           "background-color": {
@@ -4097,17 +4165,17 @@
         },
         "disabled": {
           "border-color": {
-            "value": "#d1d5db",
+            "value": "#cbd5e1",
             "type": "color"
           },
           "background-color": {
-            "value": "#6b7280",
+            "value": "#64748b",
             "type": "color"
           }
         },
         "read-only": {
           "border-color": {
-            "value": "#d1d5db",
+            "value": "#cbd5e1",
             "type": "color"
           },
           "background-color": {
@@ -4121,15 +4189,15 @@
   "menu-item": {
     "default": {
       "border-color": {
-        "value": "#d1d5db",
+        "value": "#cbd5e1",
         "type": "color"
       },
       "text-color": {
-        "value": "#374151",
+        "value": "#334155",
         "type": "color"
       },
       "icon-color": {
-        "value": "#374151",
+        "value": "#334155",
         "type": "color"
       },
       "background-color": {
@@ -4139,7 +4207,7 @@
     },
     "disabled": {
       "background-color": {
-        "value": "#6b7280",
+        "value": "#64748b",
         "type": "color"
       },
       "text-color": {
@@ -4151,21 +4219,21 @@
         "type": "color"
       },
       "border-color": {
-        "value": "#d1d5db",
+        "value": "#cbd5e1",
         "type": "color"
       }
     },
     "hover": {
       "border-color": {
-        "value": "#d1d5db",
+        "value": "#cbd5e1",
         "type": "color"
       },
       "text-color": {
-        "value": "#374151",
+        "value": "#334155",
         "type": "color"
       },
       "icon-color": {
-        "value": "#374151",
+        "value": "#334155",
         "type": "color"
       },
       "background-color": {
@@ -4175,15 +4243,15 @@
     },
     "focus": {
       "border-color": {
-        "value": "#d1d5db",
+        "value": "#cbd5e1",
         "type": "color"
       },
       "text-color": {
-        "value": "#374151",
+        "value": "#334155",
         "type": "color"
       },
       "icon-color": {
-        "value": "#374151",
+        "value": "#334155",
         "type": "color"
       },
       "background-color": {
@@ -4193,15 +4261,15 @@
     },
     "selected": {
       "border-color": {
-        "value": "#818cf8",
+        "value": "#4f46e5",
         "type": "color"
       },
       "text-color": {
-        "value": "#818cf8",
+        "value": "#4f46e5",
         "type": "color"
       },
       "icon-color": {
-        "value": "#818cf8",
+        "value": "#4f46e5",
         "type": "color"
       },
       "background-color": {
@@ -4253,7 +4321,7 @@
   "icon-buttton": {
     "default": {
       "border-color": {
-        "value": "#818cf8",
+        "value": "#4f46e5",
         "type": "color"
       },
       "icon-color": {
@@ -4261,7 +4329,7 @@
         "type": "color"
       },
       "background-color": {
-        "value": "#818cf8",
+        "value": "#4f46e5",
         "type": "color"
       },
       "border-radius": {
@@ -4271,15 +4339,15 @@
     },
     "outline": {
       "border-color": {
-        "value": "#818cf8",
+        "value": "#94a3b8",
         "type": "color"
       },
       "background-color": {
-        "value": "#334155",
+        "value": "#ffffff03",
         "type": "color"
       },
       "icon-color": {
-        "value": "#818cf8",
+        "value": "#94a3b8",
         "type": "color"
       },
       "border-radius": {
@@ -4462,13 +4530,13 @@
     "field-text": {
       "filled": {
         "text-color": {
-          "value": "#374151",
+          "value": "#334155",
           "type": "color"
         }
       },
       "placeholder": {
         "text-color": {
-          "value": "#374151",
+          "value": "#334155",
           "type": "color"
         }
       },
@@ -4494,7 +4562,7 @@
           "type": "color"
         },
         "border-color": {
-          "value": "#d1d5db",
+          "value": "#cbd5e1",
           "type": "color"
         }
       },
@@ -4504,7 +4572,7 @@
           "type": "color"
         },
         "border-color": {
-          "value": "#d1d5db",
+          "value": "#cbd5e1",
           "type": "color"
         }
       },
@@ -4520,11 +4588,11 @@
       },
       "disabled": {
         "background-color": {
-          "value": "#6b7280",
+          "value": "#64748b",
           "type": "color"
         },
         "border-color": {
-          "value": "#d1d5db",
+          "value": "#cbd5e1",
           "type": "color"
         }
       },
@@ -4534,7 +4602,7 @@
           "type": "color"
         },
         "border-color": {
-          "value": "#d1d5db",
+          "value": "#cbd5e1",
           "type": "color"
         }
       }
