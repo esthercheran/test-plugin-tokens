@@ -4395,7 +4395,7 @@
     },
     "outline": {
       "border-color": {
-        "value": "#94a3b8",
+        "value": "#4f46e5",
         "type": "color"
       },
       "background-color": {
@@ -4403,7 +4403,7 @@
         "type": "color"
       },
       "icon-color": {
-        "value": "#94a3b8",
+        "value": "#4f46e5",
         "type": "color"
       },
       "border-radius": {
