@@ -2786,7 +2786,7 @@
       },
       "visited": {
         "font-color": {
-          "value": "#ffffff",
+          "value": "#64748b",
           "type": "color"
         }
       }
