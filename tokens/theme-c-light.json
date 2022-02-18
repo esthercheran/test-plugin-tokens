@@ -13,6 +13,28 @@
       "type": "fontFamilies"
     }
   },
+  "font-weight": {
+    "semiBold": {
+      "value": "Medium",
+      "type": "fontWeights",
+      "default": "600"
+    },
+    "regular": {
+      "value": "Regular",
+      "type": "fontWeights",
+      "default": "400"
+    },
+    "light": {
+      "value": "Light",
+      "type": "fontWeights",
+      "default": "300"
+    },
+    "bold": {
+      "value": "Bold",
+      "type": "fontWeights",
+      "default": "700"
+    }
+  },
   "semantic": {
     "fg": {
       "default": {
@@ -1723,7 +1745,7 @@
         "type": "fontWeights"
       },
       "actions": {
-        "value": "SemiBold",
+        "value": "Medium",
         "type": "fontWeights"
       },
       "status": {
@@ -1740,7 +1762,7 @@
           "type": "fontWeights"
         },
         "semibold": {
-          "value": "SemiBold",
+          "value": "Medium",
           "type": "fontWeights"
         },
         "bold": {
@@ -2138,7 +2160,7 @@
       "type": "fontFamilies"
     },
     "font-weight": {
-      "value": "SemiBold",
+      "value": "Medium",
       "type": "fontWeights"
     },
     "cta": {
@@ -3531,7 +3553,7 @@
     },
     "semibold": {
       "font-weight": {
-        "value": "SemiBold",
+        "value": "Medium",
         "type": "fontWeights"
       }
     },
@@ -5804,28 +5826,6 @@
     "italic": {
       "value": "italic",
       "type": "other"
-    }
-  },
-  "font-weight": {
-    "semiBold": {
-      "value": "SemiBold",
-      "type": "fontWeights",
-      "default": "600"
-    },
-    "regular": {
-      "value": "Regular",
-      "type": "fontWeights",
-      "default": "400"
-    },
-    "light": {
-      "value": "Light",
-      "type": "fontWeights",
-      "default": "300"
-    },
-    "bold": {
-      "value": "Bold",
-      "type": "fontWeights",
-      "default": "700"
     }
   },
   "line-height": {

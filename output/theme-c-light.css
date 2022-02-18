@@ -2,6 +2,10 @@
           --font-family-serif: "Satoshi Variable";
   --font-family-sans-serif: "Satoshi Variable";
   --font-family-mono: "Satoshi Variable";
+  --font-weight-semi-bold: 400;
+  --font-weight-regular: 400;
+  --font-weight-light: 300;
+  --font-weight-bold: 700;
   --semantic-fg-default: #000000;
   --semantic-fg-muted: #334155;
   --semantic-fg-subtle: #94a3b8;
@@ -376,11 +380,11 @@
   --semantic-font-size-navigation-xxl: 22px;
   --semantic-font-size-navigation-xxxl: 24px;
   --semantic-font-weight-inputs: 400;
-  --semantic-font-weight-actions: 600;
+  --semantic-font-weight-actions: 400;
   --semantic-font-weight-status: 400;
   --semantic-font-weight-typography-light: 300;
   --semantic-font-weight-typography-regular: 400;
-  --semantic-font-weight-typography-semibold: 600;
+  --semantic-font-weight-typography-semibold: 400;
   --semantic-font-weight-typography-bold: 700;
   --semantic-font-weight-feedback-regular: 400;
   --semantic-font-weight-feedback-bold: 700;
@@ -468,7 +472,7 @@
   --button-border-radius: 100px;
   --button-border-width: 2px;
   --button-font-family: "Satoshi Variable";
-  --button-font-weight: 600;
+  --button-font-weight: 400;
   --button-cta-default-background-color: #4f46e5;
   --button-cta-default-text-color: #ffffff;
   --button-cta-default-border-color: #4f46e5;
@@ -763,7 +767,7 @@
   --heading-mono-font-family: "Satoshi Variable";
   --heading-light-font-weight: 300;
   --heading-regular-font-weight: 400;
-  --heading-semibold-font-weight: 600;
+  --heading-semibold-font-weight: 400;
   --heading-bold-font-weight: 700;
   --heading-line-height: 130%;
   --radio-label-font-family: "Satoshi Variable";
@@ -1251,10 +1255,6 @@
   --font-size-27: 140px;
   --font-style-normal: normal;
   --font-style-italic: italic;
-  --font-weight-semi-bold: 600;
-  --font-weight-regular: 400;
-  --font-weight-light: 300;
-  --font-weight-bold: 700;
   --line-height-1: 130%;
   --line-height-2: 150%;
   --opacity-5: 5%;
