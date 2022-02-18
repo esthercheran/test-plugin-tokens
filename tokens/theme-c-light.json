@@ -15,7 +15,7 @@
   },
   "font-weight": {
     "semiBold": {
-      "value": "Medium",
+      "value": "Bold",
       "type": "fontWeights",
       "default": "600"
     },
@@ -1745,7 +1745,7 @@
         "type": "fontWeights"
       },
       "actions": {
-        "value": "Medium",
+        "value": "Bold",
         "type": "fontWeights"
       },
       "status": {
@@ -1762,7 +1762,7 @@
           "type": "fontWeights"
         },
         "semibold": {
-          "value": "Medium",
+          "value": "Bold",
           "type": "fontWeights"
         },
         "bold": {
@@ -2160,7 +2160,7 @@
       "type": "fontFamilies"
     },
     "font-weight": {
-      "value": "Medium",
+      "value": "Bold",
       "type": "fontWeights"
     },
     "cta": {
@@ -3553,7 +3553,7 @@
     },
     "semibold": {
       "font-weight": {
-        "value": "Medium",
+        "value": "Bold",
         "type": "fontWeights"
       }
     },
