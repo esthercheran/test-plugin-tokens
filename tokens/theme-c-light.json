@@ -3928,6 +3928,12 @@
         "value": "22px",
         "type": "fontSizes"
       }
+    },
+    "xxxl": {
+      "font-size": {
+        "value": "24px",
+        "type": "fontSizes"
+      }
     }
   },
   "detail": {
