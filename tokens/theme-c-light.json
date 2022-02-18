@@ -3880,6 +3880,56 @@
       }
     }
   },
+  "body": {
+    "font-weight": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "sans": {
+      "value": "IBM Plex Sans",
+      "type": "fontFamilies"
+    },
+    "serif": {
+      "value": "IBM Plex Sans",
+      "type": "fontFamilies"
+    },
+    "xs": {
+      "font-size": {
+        "value": "12px",
+        "type": "fontSizes"
+      }
+    },
+    "s": {
+      "font-size": {
+        "value": "14px",
+        "type": "fontSizes"
+      }
+    },
+    "m": {
+      "font-size": {
+        "value": "16px",
+        "type": "fontSizes"
+      }
+    },
+    "l": {
+      "font-size": {
+        "value": "18px",
+        "type": "fontSizes"
+      }
+    },
+    "xl": {
+      "font-size": {
+        "value": "20px",
+        "type": "fontSizes"
+      }
+    },
+    "xxl": {
+      "font-size": {
+        "value": "22px",
+        "type": "fontSizes"
+      }
+    }
+  },
   "detail": {
     "s": {
       "font-size": {

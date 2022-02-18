@@ -830,6 +830,15 @@
   --checkbox-checkmark-selected-hover-icon-color: #ffffff;
   --checkbox-checkmark-selected-disabled-icon-color: #9ca3af;
   --checkbox-checkmark-selected-error-icon-color: #ffffff;
+  --body-font-weight: 400;
+  --body-sans: "IBM Plex Sans";
+  --body-serif: "IBM Plex Sans";
+  --body-xs-font-size: 12px;
+  --body-s-font-size: 14px;
+  --body-m-font-size: 16px;
+  --body-l-font-size: 18px;
+  --body-xl-font-size: 20px;
+  --body-xxl-font-size: 22px;
   --detail-s-font-size: 10px;
   --detail-m-font-size: 12px;
   --detail-l-font-size: 14px;
