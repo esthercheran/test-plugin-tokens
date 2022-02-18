@@ -2754,19 +2754,19 @@
     "primary": {
       "default": {
         "font-color": {
-          "value": "#ffffff",
+          "value": "#4f46e5",
           "type": "color"
         }
       },
       "hover": {
         "font-color": {
-          "value": "#ffffff",
+          "value": "#6366f1",
           "type": "color"
         }
       },
       "visited": {
         "font-color": {
-          "value": "#ffffff",
+          "value": "#4338ca",
           "type": "color"
         }
       }
