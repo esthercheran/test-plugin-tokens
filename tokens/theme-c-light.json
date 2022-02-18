@@ -1,4 +1,18 @@
 {
+  "font-family": {
+    "serif": {
+      "value": "Satoshi Variable",
+      "type": "fontFamilies"
+    },
+    "sans-serif": {
+      "value": "Satoshi Variable",
+      "type": "fontFamilies"
+    },
+    "mono": {
+      "value": "Satoshi Variable",
+      "type": "fontFamilies"
+    }
+  },
   "semantic": {
     "fg": {
       "default": {
@@ -1391,6 +1405,42 @@
         }
       }
     },
+    "font-family": {
+      "inputs": {
+        "value": "Satoshi Variable",
+        "type": "fontFamilies"
+      },
+      "actions": {
+        "value": "Satoshi Variable",
+        "type": "fontFamilies"
+      },
+      "typography": {
+        "serif": {
+          "value": "Satoshi Variable",
+          "type": "fontFamilies"
+        },
+        "sans-serif": {
+          "value": "Satoshi Variable",
+          "type": "fontFamilies"
+        },
+        "mono": {
+          "value": "Satoshi Variable",
+          "type": "fontFamilies"
+        }
+      },
+      "feedback": {
+        "value": "Satoshi Variable",
+        "type": "fontFamilies"
+      },
+      "status": {
+        "value": "Satoshi Variable",
+        "type": "fontFamilies"
+      },
+      "navigation": {
+        "value": "Satoshi Variable",
+        "type": "fontFamilies"
+      }
+    },
     "inputs": {
       "background": {
         "value": "#ffffff",
@@ -1665,42 +1715,6 @@
           "value": "24px",
           "type": "fontSizes"
         }
-      }
-    },
-    "font-family": {
-      "inputs": {
-        "value": "IBM Plex Sans",
-        "type": "fontFamilies"
-      },
-      "actions": {
-        "value": "IBM Plex Sans",
-        "type": "fontFamilies"
-      },
-      "typography": {
-        "serif": {
-          "value": "IBM Plex Serif",
-          "type": "fontFamilies"
-        },
-        "sans-serif": {
-          "value": "IBM Plex Sans",
-          "type": "fontFamilies"
-        },
-        "mono": {
-          "value": "IBM Plex Mono",
-          "type": "fontFamilies"
-        }
-      },
-      "feedback": {
-        "value": "IBM Plex Sans",
-        "type": "fontFamilies"
-      },
-      "status": {
-        "value": "IBM Plex Sans",
-        "type": "fontFamilies"
-      },
-      "navigation": {
-        "value": "IBM Plex Sans",
-        "type": "fontFamilies"
       }
     },
     "font-weight": {
@@ -2102,7 +2116,7 @@
       "type": "color"
     },
     "font-family": {
-      "value": "IBM Plex Sans",
+      "value": "Satoshi Variable",
       "type": "fontFamilies"
     },
     "border-color": {
@@ -2120,7 +2134,7 @@
       "type": "borderWidth"
     },
     "font-family": {
-      "value": "IBM Plex Sans",
+      "value": "Satoshi Variable",
       "type": "fontFamilies"
     },
     "font-weight": {
@@ -2820,7 +2834,7 @@
   },
   "tag": {
     "font-family": {
-      "value": "IBM Plex Sans",
+      "value": "Satoshi Variable",
       "type": "fontFamilies"
     },
     "font-weight": {
@@ -3194,7 +3208,7 @@
       }
     },
     "font-family": {
-      "value": "IBM Plex Sans",
+      "value": "Satoshi Variable",
       "type": "fontFamilies"
     },
     "font-weight": {
@@ -3240,7 +3254,7 @@
       "type": "borderWidth"
     },
     "font-family": {
-      "value": "IBM Plex Sans",
+      "value": "Satoshi Variable",
       "type": "fontFamilies"
     },
     "title": {
@@ -3412,7 +3426,7 @@
       }
     },
     "font-family": {
-      "value": "IBM Plex Sans",
+      "value": "Satoshi Variable",
       "type": "fontFamilies"
     },
     "space-between": {
@@ -3487,19 +3501,19 @@
     },
     "serif": {
       "font-family": {
-        "value": "IBM Plex Serif",
+        "value": "Satoshi Variable",
         "type": "fontFamilies"
       }
     },
     "sans-serif": {
       "font-family": {
-        "value": "IBM Plex Sans",
+        "value": "Satoshi Variable",
         "type": "fontFamilies"
       }
     },
     "mono": {
       "font-family": {
-        "value": "IBM Plex Mono",
+        "value": "Satoshi Variable",
         "type": "fontFamilies"
       }
     },
@@ -3535,7 +3549,7 @@
   "radio": {
     "label": {
       "font-family": {
-        "value": "IBM Plex Sans",
+        "value": "Satoshi Variable",
         "type": "fontFamilies"
       },
       "font-size": {
@@ -3719,7 +3733,7 @@
   "checkbox": {
     "label": {
       "font-family": {
-        "value": "IBM Plex Sans",
+        "value": "Satoshi Variable",
         "type": "fontFamilies"
       },
       "font-size": {
@@ -3886,11 +3900,11 @@
       "type": "fontWeights"
     },
     "sans": {
-      "value": "IBM Plex Sans",
+      "value": "Satoshi Variable",
       "type": "fontFamilies"
     },
     "serif": {
-      "value": "IBM Plex Serif",
+      "value": "Satoshi Variable",
       "type": "fontFamilies"
     },
     "xs": {
@@ -3963,19 +3977,19 @@
     },
     "serif": {
       "font-family": {
-        "value": "IBM Plex Serif",
+        "value": "Satoshi Variable",
         "type": "fontFamilies"
       }
     },
     "sans-serif": {
       "font-family": {
-        "value": "IBM Plex Sans",
+        "value": "Satoshi Variable",
         "type": "fontFamilies"
       }
     },
     "mono": {
       "font-family": {
-        "value": "IBM Plex Mono",
+        "value": "Satoshi Variable",
         "type": "fontFamilies"
       }
     },
@@ -4057,7 +4071,7 @@
   "switch": {
     "label": {
       "font-family": {
-        "value": "IBM Plex Sans",
+        "value": "Satoshi Variable",
         "type": "fontFamilies"
       },
       "font-size": {
@@ -4359,7 +4373,7 @@
     },
     "sans-serif": {
       "font-family": {
-        "value": "IBM Plex Sans",
+        "value": "Satoshi Variable",
         "type": "fontFamilies"
       }
     },
@@ -5666,20 +5680,6 @@
         "value": "#ffffff03",
         "type": "color"
       }
-    }
-  },
-  "font-family": {
-    "serif": {
-      "value": "IBM Plex Serif",
-      "type": "fontFamilies"
-    },
-    "sans-serif": {
-      "value": "IBM Plex Sans",
-      "type": "fontFamilies"
-    },
-    "mono": {
-      "value": "IBM Plex Mono",
-      "type": "fontFamilies"
     }
   },
   "font-size": {
