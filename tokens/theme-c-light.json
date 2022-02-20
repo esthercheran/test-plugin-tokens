@@ -276,6 +276,10 @@
       "extra-large": {
         "value": 64,
         "type": "sizing"
+      },
+      "extra-small": {
+        "value": 24,
+        "type": "sizing"
       }
     },
     "ui": {
@@ -1973,6 +1977,48 @@
           "value": 80,
           "type": "sizing"
         }
+      },
+      "status": {
+        "s": {
+          "height": {
+            "value": 24,
+            "type": "sizing"
+          },
+          "icon-size": {
+            "value": 8,
+            "type": "sizing"
+          }
+        },
+        "m": {
+          "height": {
+            "value": 40,
+            "type": "sizing"
+          },
+          "icon-size": {
+            "value": 16,
+            "type": "sizing"
+          }
+        },
+        "l": {
+          "height": {
+            "value": 40,
+            "type": "sizing"
+          },
+          "icon-size": {
+            "value": 24,
+            "type": "sizing"
+          }
+        },
+        "xl": {
+          "height": {
+            "value": 48,
+            "type": "sizing"
+          },
+          "icon-size": {
+            "value": 32,
+            "type": "sizing"
+          }
+        }
       }
     }
   },
@@ -3124,16 +3170,16 @@
         "value": "14px",
         "type": "fontSizes"
       },
-      "padding-top": {
-        "value": 6,
-        "type": "spacing"
+      "height": {
+        "value": 24,
+        "type": "height"
+      },
+      "icon-size": {
+        "value": 8,
+        "type": "height"
       },
       "padding-right": {
         "value": 12,
-        "type": "spacing"
-      },
-      "padding-bottom": {
-        "value": 6,
         "type": "spacing"
       },
       "padding-left": {
@@ -3146,16 +3192,16 @@
         "value": "16px",
         "type": "fontSizes"
       },
-      "padding-top": {
-        "value": 8,
-        "type": "spacing"
+      "height": {
+        "value": 40,
+        "type": "height"
+      },
+      "icon-size": {
+        "value": 16,
+        "type": "height"
       },
       "padding-right": {
         "value": 16,
-        "type": "spacing"
-      },
-      "padding-bottom": {
-        "value": 8,
         "type": "spacing"
       },
       "padding-left": {
@@ -3168,16 +3214,16 @@
         "value": "18px",
         "type": "fontSizes"
       },
-      "padding-top": {
-        "value": 8,
-        "type": "spacing"
+      "height": {
+        "value": 40,
+        "type": "height"
+      },
+      "icon-size": {
+        "value": 24,
+        "type": "height"
       },
       "padding-right": {
         "value": 16,
-        "type": "spacing"
-      },
-      "padding-bottom": {
-        "value": 8,
         "type": "spacing"
       },
       "padding-left": {
@@ -3190,16 +3236,16 @@
         "value": "20px",
         "type": "fontSizes"
       },
-      "padding-top": {
-        "value": 8,
-        "type": "spacing"
+      "height": {
+        "value": 48,
+        "type": "height"
+      },
+      "icon-size": {
+        "value": 32,
+        "type": "height"
       },
       "padding-right": {
         "value": 16,
-        "type": "spacing"
-      },
-      "padding-bottom": {
-        "value": 8,
         "type": "spacing"
       },
       "padding-left": {
