@@ -4420,38 +4420,306 @@
       "type": "borderWidth"
     }
   },
-  "icon-buttton": {
-    "default": {
-      "border-color": {
-        "value": "#4f46e5",
-        "type": "color"
+  "icon-button": {
+    "cta": {
+      "default": {
+        "border-color": {
+          "value": "#4f46e5",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "background-color": {
+          "value": "#4f46e5",
+          "type": "color"
+        }
       },
-      "icon-color": {
-        "value": "#ffffff",
-        "type": "color"
+      "hover": {
+        "border-color": {
+          "value": "#6366f1",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "background-color": {
+          "value": "#6366f1",
+          "type": "color"
+        }
       },
-      "background-color": {
-        "value": "#4f46e5",
-        "type": "color"
-      },
-      "border-radius": {
-        "value": "100px",
-        "type": "borderRadius"
+      "active": {
+        "border-color": {
+          "value": "#4338ca",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "background-color": {
+          "value": "#4338ca",
+          "type": "color"
+        }
       }
     },
-    "outline": {
-      "border-color": {
-        "value": "#4f46e5",
+    "primary": {
+      "default": {
+        "background-color": {
+          "value": "#334155",
+          "type": "color"
+        },
+        "quiet-background-color": {
+          "value": "#ffffff03",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "#334155",
+          "type": "color"
+        },
+        "quiet-border-color": {
+          "value": "#ffffff03",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "quiet-icon-color": {
+          "value": "#334155",
+          "type": "color"
+        }
+      },
+      "hover": {
+        "background-color": {
+          "value": "#94a3b8",
+          "type": "color"
+        },
+        "quiet-background-color": {
+          "value": "#94a3b8",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "#94a3b8",
+          "type": "color"
+        },
+        "quiet-border-color": {
+          "value": "#ffffff03",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "quiet-icon-color": {
+          "value": "#ffffff",
+          "type": "color"
+        }
+      },
+      "active": {
+        "background-color": {
+          "value": "#475569",
+          "type": "color"
+        },
+        "quiet-background-color": {
+          "value": "#475569",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "#475569",
+          "type": "color"
+        },
+        "quiet-border-color": {
+          "value": "#ffffff03",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "quiet-icon-color": {
+          "value": "#ffffff",
+          "type": "color"
+        }
+      }
+    },
+    "secondary": {
+      "default": {
+        "background-color": {
+          "value": "#ffffff03",
+          "type": "color"
+        },
+        "quiet-background-color": {
+          "value": "#ffffff03",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "#94a3b8",
+          "type": "color"
+        },
+        "quiet-border-color": {
+          "value": "#ffffff03",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "#4b5563",
+          "type": "color"
+        },
+        "quiet-icon-color": {
+          "value": "#94a3b8",
+          "type": "color"
+        }
+      },
+      "hover": {
+        "background-color": {
+          "value": "#cbd5e1",
+          "type": "color"
+        },
+        "quiet-background-color": {
+          "value": "#cbd5e1",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "#cbd5e1",
+          "type": "color"
+        },
+        "quiet-border-color": {
+          "value": "#ffffff03",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "#94a3b8",
+          "type": "color"
+        },
+        "quiet-icon-color": {
+          "value": "#94a3b8",
+          "type": "color"
+        }
+      },
+      "active": {
+        "background-color": {
+          "value": "#64748b",
+          "type": "color"
+        },
+        "quiet-background-color": {
+          "value": "#64748b",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "#64748b",
+          "type": "color"
+        },
+        "quiet-border-color": {
+          "value": "#ffffff03",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "quiet-icon-color": {
+          "value": "#ffffff",
+          "type": "color"
+        }
+      }
+    },
+    "negative": {
+      "default": {
+        "background-color": {
+          "value": "#ffffff03",
+          "type": "color"
+        },
+        "quiet-background-color": {
+          "value": "#ffffff03",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "#f87171",
+          "type": "color"
+        },
+        "quiet-border-color": {
+          "value": "#ffffff03",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "#f87171",
+          "type": "color"
+        },
+        "quiet-icon-color": {
+          "value": "#f87171",
+          "type": "color"
+        }
+      },
+      "hover": {
+        "background-color": {
+          "value": "#fca5a5",
+          "type": "color"
+        },
+        "quiet-background-color": {
+          "value": "#ffffff03",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "#fca5a5",
+          "type": "color"
+        },
+        "quiet-border-color": {
+          "value": "#ffffff03",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "quiet-icon-color": {
+          "value": "#fca5a5",
+          "type": "color"
+        }
+      },
+      "active": {
+        "background-color": {
+          "value": "#ef4444",
+          "type": "color"
+        },
+        "quiet-background-color": {
+          "value": "#ffffff03",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "#ef4444",
+          "type": "color"
+        },
+        "quiet-border-color": {
+          "value": "#ffffff03",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "quiet-icon-color": {
+          "value": "#ef4444",
+          "type": "color"
+        }
+      }
+    },
+    "disabled": {
+      "background-color": {
+        "value": "#cbd5e1",
         "type": "color"
       },
-      "background-color": {
-        "value": "#ffffff03",
+      "border-color": {
+        "value": "#cbd5e1",
         "type": "color"
       },
       "icon-color": {
-        "value": "#4f46e5",
+        "value": "#64748b",
         "type": "color"
-      },
+      }
+    },
+    "default": {
       "border-radius": {
         "value": "100px",
         "type": "borderRadius"
