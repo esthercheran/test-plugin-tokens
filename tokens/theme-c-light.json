@@ -3572,6 +3572,12 @@
       "type": "lineHeights"
     }
   },
+  "display": {
+    "line-height": {
+      "value": "100%",
+      "type": "lineHeights"
+    }
+  },
   "radio": {
     "label": {
       "font-family": {
