@@ -322,6 +322,7 @@
   --semantic-line-height-typography-body: 150%;
   --semantic-line-height-typography-code: 130%;
   --semantic-line-height-typography-detail: 130%;
+  --semantic-line-height-typography-display: 100%;
   --semantic-inputs-background: #ffffff;
   --semantic-inputs-text: #334155;
   --semantic-inputs-placeholder: #94a3b8;
