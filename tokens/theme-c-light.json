@@ -1129,6 +1129,12 @@
           "value": "#ffffff",
           "type": "color"
         }
+      },
+      "focus": {
+        "border-color": {
+          "value": "#4f46e5",
+          "type": "color"
+        }
       }
     },
     "border-radius": {
@@ -1181,6 +1187,10 @@
         "type": "borderWidth"
       },
       "slider": {
+        "value": 4,
+        "type": "borderWidth"
+      },
+      "focus": {
         "value": 4,
         "type": "borderWidth"
       }

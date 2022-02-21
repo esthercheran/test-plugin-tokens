@@ -246,6 +246,7 @@
   --semantic-color-navigation-border-color: #4338ca;
   --semantic-color-navigation-font-color: #ffffff;
   --semantic-color-navigation-icon-color: #ffffff;
+  --semantic-color-focus-border-color: #4f46e5;
   --semantic-border-radius-actions: 100px;
   --semantic-border-radius-feedback: 16px;
   --semantic-border-radius-inputs: 4px;
@@ -258,6 +259,7 @@
   --semantic-border-width-feedback: 1px;
   --semantic-border-width-navigation: 2px;
   --semantic-border-width-slider: 4px;
+  --semantic-border-width-focus: 4px;
   --semantic-spacing-actions-small-padding-left: 24px;
   --semantic-spacing-actions-small-padding-right: 24px;
   --semantic-spacing-actions-small-padding-top: 8px;
