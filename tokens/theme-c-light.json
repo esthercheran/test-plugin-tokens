@@ -1429,6 +1429,94 @@
             "type": "spacing"
           }
         }
+      },
+      "ui": {
+        "xxs": {
+          "space-between": {
+            "value": 4,
+            "type": "spacing"
+          },
+          "space-around": {
+            "value": 4,
+            "type": "spacing"
+          }
+        },
+        "xs": {
+          "space-between": {
+            "value": 8,
+            "type": "spacing"
+          },
+          "space-around": {
+            "value": 6,
+            "type": "spacing"
+          }
+        },
+        "s": {
+          "space-between": {
+            "value": 16,
+            "type": "spacing"
+          },
+          "space-around": {
+            "value": 8,
+            "type": "spacing"
+          }
+        },
+        "m": {
+          "space-between": {
+            "value": 24,
+            "type": "spacing"
+          },
+          "space-around": {
+            "value": 12,
+            "type": "spacing"
+          }
+        },
+        "l": {
+          "space-between": {
+            "value": 32,
+            "type": "spacing"
+          },
+          "space-around": {
+            "value": 16,
+            "type": "spacing"
+          }
+        },
+        "xl": {
+          "space-between": {
+            "value": 64,
+            "type": "spacing"
+          },
+          "space-around": {
+            "value": 24,
+            "type": "spacing"
+          }
+        },
+        "xxl": {
+          "space-between": {
+            "value": 96,
+            "type": "spacing"
+          },
+          "space-around": {
+            "value": 32,
+            "type": "spacing"
+          }
+        },
+        "xxxl": {
+          "space-between": {
+            "value": 160,
+            "type": "spacing"
+          },
+          "space-around": {
+            "value": 64,
+            "type": "spacing"
+          }
+        },
+        "xxxxl": {
+          "space-around": {
+            "value": 96,
+            "type": "spacing"
+          }
+        }
       }
     },
     "font-family": {
@@ -5021,6 +5109,94 @@
           "value": "#cbd5e1",
           "type": "color"
         }
+      }
+    }
+  },
+  "ui": {
+    "xxs": {
+      "space-between": {
+        "value": 4,
+        "type": "spacing"
+      },
+      "space-around": {
+        "value": 4,
+        "type": "spacing"
+      }
+    },
+    "xs": {
+      "space-between": {
+        "value": 8,
+        "type": "spacing"
+      },
+      "space-around": {
+        "value": 6,
+        "type": "spacing"
+      }
+    },
+    "s": {
+      "space-between": {
+        "value": 16,
+        "type": "spacing"
+      },
+      "space-around": {
+        "value": 8,
+        "type": "spacing"
+      }
+    },
+    "m": {
+      "space-between": {
+        "value": 24,
+        "type": "spacing"
+      },
+      "space-around": {
+        "value": 12,
+        "type": "spacing"
+      }
+    },
+    "l": {
+      "space-between": {
+        "value": 32,
+        "type": "spacing"
+      },
+      "space-around": {
+        "value": 16,
+        "type": "spacing"
+      }
+    },
+    "xl": {
+      "space-between": {
+        "value": 64,
+        "type": "spacing"
+      },
+      "space-around": {
+        "value": 24,
+        "type": "spacing"
+      }
+    },
+    "xxl": {
+      "space-between": {
+        "value": 96,
+        "type": "spacing"
+      },
+      "space-around": {
+        "value": 32,
+        "type": "spacing"
+      }
+    },
+    "xxxl": {
+      "space-between": {
+        "value": 160,
+        "type": "spacing"
+      },
+      "space-around": {
+        "value": 64,
+        "type": "spacing"
+      }
+    },
+    "xxxxl": {
+      "space-around": {
+        "value": 96,
+        "type": "spacing"
       }
     }
   },
