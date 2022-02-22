@@ -827,7 +827,7 @@
             "type": "color"
           },
           "border-color": {
-            "value": "#cbd5e1",
+            "value": "#64748b",
             "type": "color"
           }
         },
@@ -1132,7 +1132,7 @@
       },
       "focus": {
         "border-color": {
-          "value": "#4f46e5",
+          "value": "#e0e7ff",
           "type": "color"
         }
       }
@@ -1612,13 +1612,13 @@
           "type": "color"
         },
         "disabled": {
-          "value": "#cbd5e1",
+          "value": "#64748b",
           "type": "color"
         }
       },
       "fg": {
         "disabled": {
-          "value": "#64748b",
+          "value": "#cbd5e1",
           "type": "color"
         }
       }
@@ -3873,7 +3873,7 @@
             "type": "color"
           },
           "border-color": {
-            "value": "#cbd5e1",
+            "value": "#64748b",
             "type": "color"
           }
         }
@@ -3901,11 +3901,11 @@
         },
         "disabled": {
           "background-color": {
-            "value": "#cbd5e1",
+            "value": "#64748b",
             "type": "color"
           },
           "border-color": {
-            "value": "#cbd5e1",
+            "value": "#64748b",
             "type": "color"
           }
         }
@@ -3987,7 +3987,7 @@
             "type": "color"
           },
           "border-color": {
-            "value": "#cbd5e1",
+            "value": "#64748b",
             "type": "color"
           }
         }
@@ -4068,7 +4068,7 @@
           "type": "color"
         },
         "border-color": {
-          "value": "#cbd5e1",
+          "value": "#64748b",
           "type": "color"
         }
       },
@@ -4377,7 +4377,7 @@
         },
         "disabled": {
           "background-color": {
-            "value": "#cbd5e1",
+            "value": "#64748b",
             "type": "color"
           }
         },
@@ -4417,7 +4417,7 @@
         },
         "disabled": {
           "border-color": {
-            "value": "#cbd5e1",
+            "value": "#64748b",
             "type": "color"
           }
         },
@@ -4455,7 +4455,7 @@
         },
         "disabled": {
           "border-color": {
-            "value": "#cbd5e1",
+            "value": "#64748b",
             "type": "color"
           }
         },
@@ -4503,7 +4503,7 @@
         },
         "disabled": {
           "border-color": {
-            "value": "#cbd5e1",
+            "value": "#64748b",
             "type": "color"
           },
           "background-color": {
@@ -4557,7 +4557,7 @@
         "type": "color"
       },
       "border-color": {
-        "value": "#cbd5e1",
+        "value": "#64748b",
         "type": "color"
       }
     },
@@ -5198,7 +5198,7 @@
           "type": "color"
         },
         "border-color": {
-          "value": "#cbd5e1",
+          "value": "#64748b",
           "type": "color"
         }
       },
