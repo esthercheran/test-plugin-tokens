@@ -1367,6 +1367,10 @@
         }
       },
       "status": {
+        "space-between": {
+          "value": 8,
+          "type": "spacing"
+        },
         "small": {
           "padding-top": {
             "value": 6,
@@ -3015,6 +3019,10 @@
       "value": "100px",
       "type": "borderRadius"
     },
+    "space-between": {
+      "value": 8,
+      "type": "spacing"
+    },
     "solid": {
       "info": {
         "background-color": {
@@ -3022,6 +3030,10 @@
           "type": "color"
         },
         "text-color": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "icon-color": {
           "value": "#ffffff",
           "type": "color"
         }
@@ -3034,6 +3046,10 @@
         "text-color": {
           "value": "#ffffff",
           "type": "color"
+        },
+        "icon-color": {
+          "value": "#ffffff",
+          "type": "color"
         }
       },
       "warning": {
@@ -3042,6 +3058,10 @@
           "type": "color"
         },
         "text-color": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "icon-color": {
           "value": "#ffffff",
           "type": "color"
         }
@@ -3054,6 +3074,10 @@
         "text-color": {
           "value": "#ffffff",
           "type": "color"
+        },
+        "icon-color": {
+          "value": "#ffffff",
+          "type": "color"
         }
       },
       "neutral": {
@@ -3062,6 +3086,10 @@
           "type": "color"
         },
         "text-color": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "icon-color": {
           "value": "#ffffff",
           "type": "color"
         }
@@ -3076,6 +3104,10 @@
         "text-color": {
           "value": "#c7d2fe",
           "type": "color"
+        },
+        "icon-color": {
+          "value": "#c7d2fe",
+          "type": "color"
         }
       },
       "success": {
@@ -3084,6 +3116,10 @@
           "type": "color"
         },
         "text-color": {
+          "value": "#34d399",
+          "type": "color"
+        },
+        "icon-color": {
           "value": "#34d399",
           "type": "color"
         }
@@ -3096,6 +3132,10 @@
         "text-color": {
           "value": "#fbbf24",
           "type": "color"
+        },
+        "icon-color": {
+          "value": "#fbbf24",
+          "type": "color"
         }
       },
       "error": {
@@ -3104,6 +3144,10 @@
           "type": "color"
         },
         "text-color": {
+          "value": "#f87171",
+          "type": "color"
+        },
+        "icon-color": {
           "value": "#f87171",
           "type": "color"
         }
@@ -3116,6 +3160,10 @@
         "text-color": {
           "value": "#f87171",
           "type": "color"
+        },
+        "icon-color": {
+          "value": "#f87171",
+          "type": "color"
         }
       }
     },
@@ -3126,6 +3174,10 @@
           "type": "color"
         },
         "text-color": {
+          "value": "#c7d2fe",
+          "type": "color"
+        },
+        "icon-color": {
           "value": "#c7d2fe",
           "type": "color"
         },
@@ -3143,6 +3195,10 @@
           "value": "#34d399",
           "type": "color"
         },
+        "icon-color": {
+          "value": "#34d399",
+          "type": "color"
+        },
         "background-color": {
           "value": "#ffffff03",
           "type": "color"
@@ -3154,6 +3210,10 @@
           "type": "color"
         },
         "text-color": {
+          "value": "#fbbf24",
+          "type": "color"
+        },
+        "icon-color": {
           "value": "#fbbf24",
           "type": "color"
         },
@@ -3171,6 +3231,10 @@
           "value": "#f87171",
           "type": "color"
         },
+        "icon-color": {
+          "value": "#f87171",
+          "type": "color"
+        },
         "background-color": {
           "value": "#ffffff03",
           "type": "color"
@@ -3182,6 +3246,10 @@
           "type": "color"
         },
         "text-color": {
+          "value": "#9ca3af",
+          "type": "color"
+        },
+        "icon-color": {
           "value": "#9ca3af",
           "type": "color"
         },
@@ -3201,6 +3269,10 @@
           "value": "#c7d2fe",
           "type": "color"
         },
+        "icon-color": {
+          "value": "#c7d2fe",
+          "type": "color"
+        },
         "background-color": {
           "value": "#ffffff03",
           "type": "color"
@@ -3212,6 +3284,10 @@
           "type": "color"
         },
         "text-color": {
+          "value": "#34d399",
+          "type": "color"
+        },
+        "icon-color": {
           "value": "#34d399",
           "type": "color"
         },
@@ -3229,6 +3305,10 @@
           "value": "#fbbf24",
           "type": "color"
         },
+        "icon-color": {
+          "value": "#fbbf24",
+          "type": "color"
+        },
         "background-color": {
           "value": "#ffffff03",
           "type": "color"
@@ -3240,6 +3320,10 @@
           "type": "color"
         },
         "text-color": {
+          "value": "#f87171",
+          "type": "color"
+        },
+        "icon-color": {
           "value": "#f87171",
           "type": "color"
         },
@@ -3257,6 +3341,10 @@
           "value": "#9ca3af",
           "type": "color"
         },
+        "icon-color": {
+          "value": "#9ca3af",
+          "type": "color"
+        },
         "background-color": {
           "value": "#ffffff03",
           "type": "color"
@@ -3270,11 +3358,11 @@
       },
       "height": {
         "value": 24,
-        "type": "height"
+        "type": "sizing"
       },
       "icon-size": {
         "value": 8,
-        "type": "height"
+        "type": "sizing"
       },
       "padding-right": {
         "value": 12,
@@ -3292,11 +3380,11 @@
       },
       "height": {
         "value": 40,
-        "type": "height"
+        "type": "sizing"
       },
       "icon-size": {
         "value": 16,
-        "type": "height"
+        "type": "sizing"
       },
       "padding-right": {
         "value": 16,
@@ -3314,11 +3402,11 @@
       },
       "height": {
         "value": 40,
-        "type": "height"
+        "type": "sizing"
       },
       "icon-size": {
         "value": 24,
-        "type": "height"
+        "type": "sizing"
       },
       "padding-right": {
         "value": 16,
@@ -3336,11 +3424,11 @@
       },
       "height": {
         "value": 48,
-        "type": "height"
+        "type": "sizing"
       },
       "icon-size": {
         "value": 32,
-        "type": "height"
+        "type": "sizing"
       },
       "padding-right": {
         "value": 16,
