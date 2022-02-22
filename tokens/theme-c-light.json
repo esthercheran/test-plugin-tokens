@@ -4037,6 +4037,10 @@
       "value": 1,
       "type": "borderWidth"
     },
+    "space-between": {
+      "value": 8,
+      "type": "spacing"
+    },
     "unselected": {
       "default": {
         "background-color": {

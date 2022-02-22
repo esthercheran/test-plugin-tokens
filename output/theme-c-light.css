@@ -867,6 +867,7 @@
   --checkbox-height: 18px;
   --checkbox-border-radius: 4px;
   --checkbox-border-width: 1px;
+  --checkbox-space-between: 8px;
   --checkbox-unselected-default-background-color: #ffffff;
   --checkbox-unselected-default-border-color: #cbd5e1;
   --checkbox-unselected-hover-background-color: #ffffff;
