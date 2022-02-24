@@ -62,13 +62,13 @@
   --semantic-component-large: 48px;
   --semantic-component-extra-large: 64px;
   --semantic-component-extra-small: 24px;
-  --semantic-ui-border-radius: 0px;
   --semantic-ui-spacing-extra-small: 16px;
   --semantic-ui-spacing-small: 32px;
   --semantic-ui-spacing-medium: 32px;
   --semantic-ui-spacing-large: 128px;
   --semantic-ui-spacing-extra-large: 256px;
   --semantic-ui-shadow: [object Object];
+  --semantic-ui-border-radius: 0px;
   --semantic-neutral-fg: #9ca3af;
   --semantic-neutral-emphasised: #6b7280;
   --semantic-neutral-muted: #d1d5db;
