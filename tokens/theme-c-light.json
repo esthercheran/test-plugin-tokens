@@ -283,6 +283,10 @@
       }
     },
     "ui": {
+      "border-radius": {
+        "value": "0px",
+        "type": "borderRadius"
+      },
       "spacing": {
         "extra-small": {
           "value": 16,
@@ -317,10 +321,6 @@
           }
         ],
         "type": "boxShadow"
-      },
-      "border-radius": {
-        "value": "0px",
-        "type": "borderRadius"
       }
     },
     "neutral": {
@@ -3486,7 +3486,7 @@
       }
     }
   },
-  "alert": {
+  "alert-banner": {
     "width": {
       "value": 72,
       "type": "sizing"
