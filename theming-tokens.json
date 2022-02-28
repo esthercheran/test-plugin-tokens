@@ -6807,7 +6807,7 @@
           "type": "color"
         },
         "accent": {
-          "value": "{color.emerald.500}",
+          "value": "{semantic.cta.default}",
           "type": "color"
         }
       },
