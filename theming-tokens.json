@@ -6821,7 +6821,7 @@
           "type": "color"
         },
         "subtle": {
-          "value": "#ff0000",
+          "value": "#EAEEF5",
           "type": "color"
         },
         "canvas": {
@@ -6988,7 +6988,7 @@
           "type": "color"
         },
         "subtle": {
-          "value": "#ff0000",
+          "value": "#31425C",
           "type": "color"
         },
         "canvas": {
@@ -7073,7 +7073,7 @@
           "type": "color"
         },
         "subtle": {
-          "value": "#ff0000",
+          "value": "#F2F3F2",
           "type": "color"
         },
         "canvas": {
@@ -7226,11 +7226,11 @@
           "type": "color"
         },
         "muted": {
-          "value": "{color.slate.600}",
+          "value": "{color.NeutralGray.600}",
           "type": "color"
         },
         "subtle": {
-          "value": "#ff0000",
+          "value": "#595959",
           "type": "color"
         },
         "canvas": {
@@ -7360,7 +7360,7 @@
           "type": "color"
         },
         "subtle": {
-          "value": "#ff0000",
+          "value": "#F6FCFB",
           "type": "color"
         },
         "canvas": {
@@ -7437,7 +7437,7 @@
           "type": "color"
         },
         "subtle": {
-          "value": "#ff0000",
+          "value": "#010707",
           "type": "color"
         },
         "canvas": {
