@@ -6807,7 +6807,7 @@
           "type": "color"
         },
         "accent": {
-          "value": "{semantic.cta.default}",
+          "value": "{color.green.600}",
           "type": "color"
         }
       },
