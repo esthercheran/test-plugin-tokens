@@ -3218,6 +3218,10 @@
     "27": {
       "value": "140px",
       "type": "fontSizes"
+    },
+    "28": {
+      "value": "160px",
+      "type": "fontSizes"
     }
   },
   "font-style": {
