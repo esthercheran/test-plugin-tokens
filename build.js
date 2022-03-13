@@ -10,10 +10,12 @@ const themes = fs.readdirSync(dir).map((file) => file.replace('.json', ''))
 SD.registerFormat({
   name: 'css/variables',
   formatter: function (dictionary, config) {
-    return `${this.selector} {
-        ${dictionary.allProperties
-          .map((prop) => `  --${prop.name}: ${prop.value};`)
-          .join('\n')}
+    return `/* Auto generated on ${new Date()}, do not edit directly. */
+
+${this.selector} {
+${dictionary.allProperties
+  .map((prop) => `  --${prop.name}: ${prop.value};`)
+  .join('\n')}
       }`
   },
 })
@@ -99,7 +101,7 @@ SD.registerTransform({
 })
 
 function getStyleDictionaryConfig(theme) {
-  console.log("Building:, ", `tokens/themes/${theme}.json`);
+  console.log('Building:, ', `tokens/themes/${theme}.json`)
   return {
     source: ['tokens/core/**/*.+(json)', `tokens/themes/${theme}.json`],
     platforms: {
@@ -117,7 +119,6 @@ function getStyleDictionaryConfig(theme) {
             destination: `${theme}.css`,
             format: 'css/variables',
             selector: `.${theme}-theme`,
-            // filter: (token) => { console.log("Token", token); return token.filePath.category === `color` },
           },
         ],
       },
