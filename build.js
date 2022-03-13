@@ -1,7 +1,7 @@
 const SD = require('style-dictionary')
 const fs = require('fs')
 
-const dir = 'tokens/themes'
+const dir = 'tokens/02_themes'
 const themes = fs.readdirSync(dir).map((file) => file.replace('.json', ''))
 
 /**
@@ -103,7 +103,7 @@ SD.registerTransform({
 function getStyleDictionaryConfig(theme) {
   console.log('Building:, ', `tokens/themes/${theme}.json`)
   return {
-    source: ['tokens/core/**/*.+(json)', `tokens/themes/${theme}.json`],
+    source: ['tokens/01_base/**/*.+(json)',  `tokens/02_themes/${theme}.json`, 'tokens/03_comp/**/*.+(json)'],
     platforms: {
       web: {
         transforms: [
