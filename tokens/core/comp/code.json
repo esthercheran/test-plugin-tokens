@@ -1,26 +1,28 @@
 {
-  "s": {
-    "font-size": {
-      "value": "{semantic.font-size.typography.code.s}",
-      "type": "fontSizes"
-    }
-  },
-  "m": {
-    "font-size": {
-      "value": "{semantic.font-size.typography.code.m}",
-      "type": "fontSizes"
-    }
-  },
-  "l": {
-    "font-size": {
-      "value": "{semantic.font-size.typography.code.l}",
-      "type": "fontSizes"
-    }
-  },
-  "xl": {
-    "font-size": {
-      "value": "{semantic.font-size.typography.code.xl}",
-      "type": "fontSizes"
+  "code": {
+    "s": {
+      "font-size": {
+        "value": "{semantic.font-size.typography.code.s}",
+        "type": "fontSizes"
+      }
+    },
+    "m": {
+      "font-size": {
+        "value": "{semantic.font-size.typography.code.m}",
+        "type": "fontSizes"
+      }
+    },
+    "l": {
+      "font-size": {
+        "value": "{semantic.font-size.typography.code.l}",
+        "type": "fontSizes"
+      }
+    },
+    "xl": {
+      "font-size": {
+        "value": "{semantic.font-size.typography.code.xl}",
+        "type": "fontSizes"
+      }
     }
   }
 }
