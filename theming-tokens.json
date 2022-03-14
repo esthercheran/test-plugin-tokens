@@ -3615,8 +3615,20 @@
       }
     },
     "body": {
+      "line-height": {
+        "value": "{semantic.line-height.typography.body}",
+        "type": "lineHeights"
+      },
       "font-weight": {
         "value": "{semantic.font-weight.typography.regular}",
+        "type": "fontWeights"
+      },
+      "strong": {
+        "value": "{semantic.font-weight.typography.bold}",
+        "type": "fontWeights"
+      },
+      "emphasized": {
+        "value": "{semantic.font-weight.typography.bold}",
         "type": "fontWeights"
       },
       "sans": {
@@ -3625,6 +3637,10 @@
       },
       "serif": {
         "value": "{semantic.font-family.typography.serif}",
+        "type": "fontFamilies"
+      },
+      "mono": {
+        "value": "{semantic.font-family.typography.mono}",
         "type": "fontFamilies"
       },
       "xs": {
