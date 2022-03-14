@@ -892,9 +892,13 @@
   --checkbox-checkmark-selected-hover-icon-color: #fafaf9;
   --checkbox-checkmark-selected-disabled-icon-color: #ff0000;
   --checkbox-checkmark-selected-error-icon-color: #fafaf9;
+  --body-line-height: 150%;
   --body-font-weight: 400;
+  --body-strong: 700;
+  --body-emphasized: 700;
   --body-sans: "Zodiak Variable";
   --body-serif: "Zodiak Variable";
+  --body-mono: "Zodiak Variable";
   --body-xs-font-size: 12px;
   --body-s-font-size: 14px;
   --body-m-font-size: 16px;

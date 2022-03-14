@@ -4171,8 +4171,20 @@
     }
   },
   "body": {
+    "line-height": {
+      "value": "150%",
+      "type": "lineHeights"
+    },
     "font-weight": {
       "value": "Regular",
+      "type": "fontWeights"
+    },
+    "strong": {
+      "value": "Bold",
+      "type": "fontWeights"
+    },
+    "emphasized": {
+      "value": "Bold",
       "type": "fontWeights"
     },
     "sans": {
@@ -4180,6 +4192,10 @@
       "type": "fontFamilies"
     },
     "serif": {
+      "value": "Satoshi Variable",
+      "type": "fontFamilies"
+    },
+    "mono": {
       "value": "Satoshi Variable",
       "type": "fontFamilies"
     },

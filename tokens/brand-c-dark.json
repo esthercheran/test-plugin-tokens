@@ -4135,8 +4135,20 @@
     }
   },
   "body": {
+    "line-height": {
+      "value": "150%",
+      "type": "lineHeights"
+    },
     "font-weight": {
       "value": "Regular",
+      "type": "fontWeights"
+    },
+    "strong": {
+      "value": "Bold",
+      "type": "fontWeights"
+    },
+    "emphasized": {
+      "value": "Bold",
       "type": "fontWeights"
     },
     "sans": {
@@ -4145,6 +4157,10 @@
     },
     "serif": {
       "value": "IBM Plex Serif",
+      "type": "fontFamilies"
+    },
+    "mono": {
+      "value": "IBM Plex Mono",
       "type": "fontFamilies"
     },
     "xs": {

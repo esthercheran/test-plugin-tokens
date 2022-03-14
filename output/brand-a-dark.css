@@ -892,9 +892,13 @@
   --checkbox-checkmark-selected-hover-icon-color: #475569;
   --checkbox-checkmark-selected-disabled-icon-color: #ff0000;
   --checkbox-checkmark-selected-error-icon-color: #475569;
+  --body-line-height: 150%;
   --body-font-weight: 400;
+  --body-strong: 700;
+  --body-emphasized: 700;
   --body-sans: "Satoshi Variable";
   --body-serif: "Satoshi Variable";
+  --body-mono: "Satoshi Variable";
   --body-xs-font-size: 12px;
   --body-s-font-size: 14px;
   --body-m-font-size: 16px;
