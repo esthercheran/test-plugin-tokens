@@ -128,7 +128,7 @@ console.log("Build started...");
 
 // PROCESS THE DESIGN TOKENS FOR THE DIFFEREN BRANDS AND PLATFORMS
 
-["brand-a-light", "brand-b-light", "brand-c-light"].map(function (theme) {
+["brand-a-light", "brand-b-light", "brand-c-light", "brand-a-dark", "brand-b-dark", "brand-c-dark"].map(function (theme) {
   console.log("\n==============================================");
   console.log(`\nProcessing: [${theme}]`);
 

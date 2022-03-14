@@ -15,9 +15,9 @@ jobs:
       - run: npx token-transformer theming-tokens.json tokens/brand-a-light.json core,bcore,comp,semantic,AL
       - run: npx token-transformer theming-tokens.json tokens/brand-b-light.json core,bcore,comp,semantic,BL
       - run: npx token-transformer theming-tokens.json tokens/brand-c-light.json core,bcore,comp,semantic,CL
-      - run: npx token-transformer theming-tokens.json tokens/brand-a-dark.json core,bcore,comp,semantic,AD
-      - run: npx token-transformer theming-tokens.json tokens/brand-b-dark.json core,bcore,comp,semantic,BD
-      - run: npx token-transformer theming-tokens.json tokens/brand-c-dark.json core,bcore,comp,semantic,CD
+      - run: npx token-transformer theming-tokens.json tokens/brand-a-dark.json core,bcore,comp,semantic,AL,AD
+      - run: npx token-transformer theming-tokens.json tokens/brand-b-dark.json core,bcore,comp,semantic,BL,BD
+      - run: npx token-transformer theming-tokens.json tokens/brand-c-dark.json core,bcore,comp,semantic,CL,CD
       # - run: npx token-transformer tokens.json tokens/light.json core,semantic-light,button,tag,alert,heading,field-label,help-text,radio,checkbox,divider
       # - run: npx token-transformer tokens.json tokens/dark.json core,semantic-dark,button,tag,alert,heading,field-label,help-text,radio,checkbox,divider
       # - run: npx token-transformer tokens.json tokens/dark.json Core,Semantic-dark,button,tag,alert
