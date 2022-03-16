@@ -3747,6 +3747,18 @@
       }
     },
     "code": {
+      "font-family": {
+        "value": "{semantic.font-family.typography.mono}",
+        "type": "fontFamilies"
+      },
+      "font-weight": {
+        "value": "{semantic.font-weight.typography.regular}",
+        "type": "fontWeights"
+      },
+      "line-height": {
+        "value": "{semantic.line-height.typography.code}",
+        "type": "lineHeights"
+      },
       "s": {
         "font-size": {
           "value": "{semantic.font-size.typography.code.s}",
