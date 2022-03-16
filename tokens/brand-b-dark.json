@@ -4303,6 +4303,18 @@
     }
   },
   "code": {
+    "font-family": {
+      "value": "Zodiak Variable",
+      "type": "fontFamilies"
+    },
+    "font-weight": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "line-height": {
+      "value": "130%",
+      "type": "lineHeights"
+    },
     "s": {
       "font-size": {
         "value": "14px",

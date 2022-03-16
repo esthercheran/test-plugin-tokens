@@ -4267,6 +4267,18 @@
     }
   },
   "code": {
+    "font-family": {
+      "value": "IBM Plex Mono",
+      "type": "fontFamilies"
+    },
+    "font-weight": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "line-height": {
+      "value": "130%",
+      "type": "lineHeights"
+    },
     "s": {
       "font-size": {
         "value": "14px",

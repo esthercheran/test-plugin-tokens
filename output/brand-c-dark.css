@@ -909,6 +909,9 @@
   --detail-light-font-weight: 300;
   --detail-regular-font-weight: 400;
   --detail-line-height: 130%;
+  --code-font-family: "IBM Plex Mono";
+  --code-font-weight: 400;
+  --code-line-height: 130%;
   --code-s-font-size: 14px;
   --code-m-font-size: 16px;
   --code-l-font-size: 18px;
