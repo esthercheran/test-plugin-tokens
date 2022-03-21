@@ -6968,11 +6968,11 @@
           "type": "color"
         },
         "muted": {
-          "value": "{color.slate.500}",
+          "value": "{color.slate.400}",
           "type": "color"
         },
         "subtle": {
-          "value": "{color.slate.400}",
+          "value": "{color.slate.300}",
           "type": "color"
         },
         "on-accent": {
