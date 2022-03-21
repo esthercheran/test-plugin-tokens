@@ -6801,11 +6801,11 @@
           "type": "color"
         },
         "muted": {
-          "value": "{color.slate.400}",
+          "value": "{color.slate.500}",
           "type": "color"
         },
         "subtle": {
-          "value": "{color.slate.500}",
+          "value": "{color.slate.300}",
           "type": "color"
         },
         "on-accent": {
@@ -6827,19 +6827,19 @@
       },
       "bg": {
         "surface": {
-          "value": "{color.zinc.200}",
-          "type": "color"
-        },
-        "muted": {
           "value": "{color.neutrals.white}",
           "type": "color"
         },
+        "muted": {
+          "value": "{color.zinc.300}",
+          "type": "color"
+        },
         "subtle": {
-          "value": "#EAEEF5",
+          "value": "{color.slate.100}",
           "type": "color"
         },
         "canvas": {
-          "value": "{color.zinc.100}",
+          "value": "{color.zinc.50}",
           "type": "color"
         }
       },
