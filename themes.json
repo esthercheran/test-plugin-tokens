@@ -4952,10 +4952,10 @@
           "value": [
             {
               "x": "0",
-              "y": "8",
-              "blur": "16",
+              "y": "4",
+              "blur": "10",
               "spread": "0",
-              "color": "hsla(0, 0%, 0%, 0.15)",
+              "color": "hsla(0, 0%, 0%, 0.07)",
               "type": "dropShadow"
             }
           ],
@@ -6496,7 +6496,7 @@
           }
         },
         "ui-card": {
-          "value": "{border-radius.7}",
+          "value": "{border-radius.4}",
           "type": "borderRadius"
         },
         "ui": {
@@ -6892,8 +6892,8 @@
           "value": [
             {
               "x": "0",
-              "y": "10",
-              "blur": "40",
+              "y": "4",
+              "blur": "10%",
               "spread": "0",
               "color": "hsla(0, 0%, 0%, 0.20)",
               "type": "dropShadow"
@@ -7091,7 +7091,7 @@
           "type": "color"
         },
         "canvas": {
-          "value": "{color.stone.50}",
+          "value": "{color.neutrals.white}",
           "type": "color"
         }
       },
@@ -7170,7 +7170,7 @@
           "type": "borderRadius"
         },
         "status": {
-          "value": "{semantic.border.radius.0}",
+          "value": "{semantic.border.radius.small}",
           "type": "borderRadius"
         },
         "ui-card": {
@@ -7200,6 +7200,16 @@
                 "value": "{semantic.fg.default}",
                 "type": "color"
               }
+            }
+          }
+        }
+      },
+      "spacing": {
+        "ui": {
+          "m": {
+            "space-between": {
+              "value": "{space.150}",
+              "type": "spacing"
             }
           }
         }
@@ -7244,7 +7254,7 @@
           "type": "color"
         },
         "muted": {
-          "value": "{color.NeutralGray.600}",
+          "value": "{color.NeutralGray.500}",
           "type": "color"
         },
         "subtle": {
