@@ -7053,11 +7053,11 @@
           "type": "color"
         },
         "muted": {
-          "value": "{color.NeutralGray.400}",
+          "value": "{color.NeutralGray.500}",
           "type": "color"
         },
         "subtle": {
-          "value": "{color.NeutralGray.500}",
+          "value": "{color.NeutralGray.400}",
           "type": "color"
         },
         "on-accent": {
@@ -7167,6 +7167,10 @@
         },
         "inputs": {
           "value": "{border-radius.0}",
+          "type": "borderRadius"
+        },
+        "status": {
+          "value": "{semantic.border.radius.0}",
           "type": "borderRadius"
         },
         "ui-card": {
@@ -7339,12 +7343,16 @@
   "CL": {
     "semantic": {
       "fg": {
+        "default": {
+          "value": "{color.neutrals.black}",
+          "type": "color"
+        },
         "muted": {
-          "value": "{color.gray.500}",
+          "value": "{color.gray.600}",
           "type": "color"
         },
         "subtle": {
-          "value": "{color.gray.600}",
+          "value": "{color.gray.500}",
           "type": "color"
         },
         "on-accent": {
@@ -7461,11 +7469,11 @@
           "type": "color"
         },
         "muted": {
-          "value": "{color.gray.500}",
+          "value": "{color.gray.400}",
           "type": "color"
         },
         "subtle": {
-          "value": "{color.gray.400}",
+          "value": "{color.gray.500}",
           "type": "color"
         },
         "on-accent": {
