@@ -4693,7 +4693,93 @@
           }
         }
       }
-    }
+    },
+    "progress-bar": {
+        "border-radius": {
+          "value": "{semantic.status.border-radius}",
+          "type": "borderRadius"
+        },
+        "border-width": {
+          "value": "{semantic.status.broder-width}",
+          "type": "borderWidth"
+        },
+        "font-family": {
+          "value": "{semantic.status.font-family}",
+          "type": "fontFamilies"
+        },
+        "font-weight": {
+          "value": "{semantic.staatus.regular.font-weight}",
+          "type": "fontWeight"
+        },
+        "default": {
+          "indicator": {
+            "value": "{semantic.color.status.accent.border-color}",
+            "type": "color"
+          },
+          "track":{
+            "value":"{semantic.color.status.default.border-color}",
+            "type": "color"
+          },
+          "text-color": {
+            "value": "{semantic.color.status.default.text-color}",
+            "type": "textColor"
+          }
+        },
+        "over-background": {
+          "indicator": {
+            "value": "{semantic.color.status.accent.border-color}",
+            "type": "color"
+          },
+          "track": {
+            "value": "[semantic.color.status.subtle.border-color}",
+            "type": "color"
+          },
+          "text-color": {
+            "value": "{semantic.color.status.subtle.text-color}",
+            "type": "textColor"
+          }
+        },
+        "s": {
+          "text-size": {
+            "value": "{semantic.status.s.font-size}",
+            "type": "fontSizes"
+          },
+          "height": {
+            "value": "{semantic.status.s.height}",
+            "type": "sizing"
+          }
+        },
+        "m": {
+          "text-size": {
+            "value": "{semantic.status.m.font-size}",
+            "type": "fontSizes"
+          },
+          "height": {
+            "value": "{semantic.status.m.height}",
+            "type": "sizing"
+          }
+        },
+        "l": {
+          "text-size": {
+            "value": "{semantic.status.l.font-size}",
+            "type": "fontSizes"
+          },
+          "height": {
+            "value": "{semantic.status.l.height}",
+            "type": "sizing"
+          }
+        },
+        "xl": {
+          "text-size": {
+            "value": "{semantic.status.xl.font-size}",
+            "type": "fontSizes"
+          },
+          "height": {
+            "value": "{semantic.status.xl.height}",
+            "type": "sizing"
+          }
+        }
+      }
   },
   "semantic": {
     "semantic": {
@@ -5704,6 +5790,23 @@
               "type": "color"
             }
           },
+          "accent": {
+            "border-color": {
+              "value": "{semantic.fg.accent}",
+              "type": "{color}"
+            }
+          },
+          "track": {
+            "default": {
+              "value": "{semantic.fg.default}",
+              "type": "{color}"
+            },
+            "over-background": {
+              "value": "{semantic.fg.subtle}",
+              "type":  "color"
+            }
+          }
+        },
           "warning": {
             "border-color": {
               "value": "{semantic.warning.fg}",
@@ -6770,7 +6873,6 @@
           }
         }
       }
-    }
   },
   "AL": {
     "font-family": {
