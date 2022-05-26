@@ -7804,7 +7804,12 @@
       }
     }
   },
-  "test-set": {},
+  "test": {
+    "red": {
+      "value": "#f00",
+      "type": "color"
+    }
+  },
   "$themes": [
     {
       "id": "209904835b07cce74565bed6d75e8220177e5ea0",
