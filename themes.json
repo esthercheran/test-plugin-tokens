@@ -7809,16 +7809,6 @@
     }
   },
   "27May set": {
-    "color": {
-      "test": {
-        "value": "#f00",
-        "type": "color"
-      },
-      "alias": {
-        "value": "{color.test}",
-        "type": "color"
-      }
-    },
     "size": {
       "raw": {
         "value": "16",
@@ -7835,7 +7825,7 @@
     },
     "space": {
       "raw": {
-        "value": "32",
+        "value": "16",
         "type": "spacing"
       },
       "alias": {
@@ -7847,9 +7837,19 @@
         "type": "spacing"
       }
     },
+    "color": {
+      "raw": {
+        "value": "#005ceb",
+        "type": "color"
+      },
+      "alias": {
+        "value": "{color.raw}",
+        "type": "color"
+      }
+    },
     "border-radius": {
       "raw": {
-        "value": "4",
+        "value": "16",
         "type": "borderRadius"
       },
       "alias": {
@@ -7877,7 +7877,7 @@
     },
     "opacity": {
       "raw": {
-        "value": ".5",
+        "value": "50%",
         "type": "opacity"
       },
       "alias": {
@@ -7885,67 +7885,8 @@
         "type": "opacity"
       },
       "math": {
-        "value": "{opacity.alias}/2",
+        "value": "{opacity.alias}",
         "type": "opacity"
-      }
-    },
-    "box-shadow": {
-      "raw": {
-        "value": {
-          "x": "0",
-          "y": "4",
-          "blur": "4",
-          "spread": "4",
-          "color": "#000000",
-          "type": "dropShadow"
-        },
-        "type": "boxShadow"
-      },
-      "alias": {
-        "value": "{box-shadow.raw}",
-        "type": "boxShadow"
-      },
-      "deep-linking": {
-        "value": {
-          "x": "{size.raw}",
-          "y": "{size.alias}",
-          "blur": "{size.math}",
-          "spread": "{size.raw}",
-          "color": "{color.alias}",
-          "type": "dropShadow"
-        },
-        "type": "boxShadow"
-      },
-      "deep-alias": {
-        "value": {
-          "x": "{box-shadow.raw.x}",
-          "y": "{box-shadow.deep-linking.y}",
-          "blur": "{box-shadow.raw.blur}",
-          "spread": "{size.alias}",
-          "color": "{box-shadow.deep-linking.color}",
-          "type": "dropShadow"
-        },
-        "type": "boxShadow"
-      }
-    },
-    "text-decoration": {
-      "raw": {
-        "value": "underline",
-        "type": "textDecoration"
-      },
-      "alias": {
-        "value": "{text-decoration.raw}",
-        "type": "textDecoration"
-      }
-    },
-    "text-case": {
-      "raw": {
-        "value": "uppercase",
-        "type": "textCase"
-      },
-      "alias": {
-        "value": "{text-case.raw}",
-        "type": "textCase"
       }
     }
   },
