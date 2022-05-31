@@ -1749,17 +1749,17 @@
         "value": "{semantic.color.navigation.border-color}",
         "type": "color"
       },
-      "xxs-copy": {
+      "xxxl-copy": {
         "height": {
-          "value": "{semantic.sizing.navigation.xxs}",
+          "value": "{semantic.sizing.navigation.xxxl}",
           "type": "sizing"
         },
         "width": {
-          "value": "{semantic.sizing.navigation.xxs}",
+          "value": "{semantic.sizing.navigation.xxxl}",
           "type": "sizing"
         },
         "icon-size": {
-          "value": "{semantic.sizing.navigation.icon-size.xxs}",
+          "value": "{semantic.sizing.navigation.icon-size.xxxl}",
           "type": "sizing"
         }
       }
@@ -8733,6 +8733,10 @@
         "type": "sizing"
       },
       "raw": {
+        "value": "32",
+        "type": "sizing"
+      },
+      "raw-1": {
         "value": "32",
         "type": "sizing"
       }
