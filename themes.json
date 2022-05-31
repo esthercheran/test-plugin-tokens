@@ -1670,6 +1670,10 @@
           "value": "{semantic.sizing.navigation.l}",
           "type": "sizing"
         },
+        "icon-size": {
+          "value": "{semantic.sizing.navigation.icon-size.l}",
+          "type": "sizing"
+        },
         "width": {
           "value": "{semantic.sizing.navigation.l}",
           "type": "sizing"
@@ -1677,10 +1681,6 @@
         "font-size": {
           "value": "{semantic.font-size.navigation.l}",
           "type": "fontSizes"
-        },
-        "icon-size": {
-          "value": "{semantic.sizing.navigation.icon-size.l}",
-          "type": "sizing"
         }
       },
       "xl": {
@@ -7824,12 +7824,12 @@
   },
   "32-may-test-set": {
     "size": {
-      "alias": {
-        "value": "{size.raw}",
-        "type": "sizing"
-      },
       "math": {
         "value": "{size.alias}*2",
+        "type": "sizing"
+      },
+      "alias": {
+        "value": "{size.raw}",
         "type": "sizing"
       },
       "raw": {
@@ -7860,12 +7860,12 @@
       }
     },
     "color": {
-      "raw": {
-        "value": "#c1c4f4",
-        "type": "color"
-      },
       "alias": {
         "value": "#000eff",
+        "type": "color"
+      },
+      "raw": {
+        "value": "#c1c4f4",
         "type": "color"
       }
     },
@@ -9254,6 +9254,28 @@
         "CD": "disabled",
         "INV-L": "disabled",
         "INV-D": "disabled"
+      },
+      "$figmaStyleReferences": {}
+    },
+    {
+      "id": "4ecffec08660635c6a1954a044677620d6afb24b",
+      "name": "Brand I",
+      "selectedTokenSets": {
+        "core": "source",
+        "bcore": "enabled",
+        "comp": "enabled",
+        "semantic": "enabled",
+        "AL": "disabled",
+        "AD": "disabled",
+        "BL": "disabled",
+        "BD": "disabled",
+        "CL": "disabled",
+        "CD": "disabled",
+        "INV-L": "enabled",
+        "INV-D": "disabled",
+        "32-may-test-set": "disabled",
+        "31-may-test-set": "disabled",
+        "testing-set": "disabled"
       },
       "$figmaStyleReferences": {}
     }
