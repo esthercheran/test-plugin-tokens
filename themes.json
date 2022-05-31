@@ -8283,7 +8283,7 @@
         "type": "sizing"
       },
       "raw": {
-        "value": "32",
+        "value": "12",
         "type": "sizing"
       },
       "raw-copy": {
@@ -8724,10 +8724,6 @@
   },
   "testing-set": {
     "size": {
-      "alias": {
-        "value": "{size.raw}",
-        "type": "sizing"
-      },
       "math": {
         "value": "{size.alias}*2",
         "type": "sizing"
@@ -8739,6 +8735,22 @@
       "raw-1": {
         "value": "32",
         "type": "sizing"
+      },
+      "alias": {
+        "set": {
+          "value": "{size.raw}",
+          "type": "sizing"
+        },
+        "set1": {
+          "value": "{size.raw}",
+          "type": "sizing"
+        }
+      },
+      "semantic": {
+        "alias": {
+          "value": "{semantic.component.extra-small}",
+          "type": "sizing"
+        }
       }
     },
     "space": {
