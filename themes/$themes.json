@@ -55,24 +55,5 @@
       "INV-D": "disabled"
     },
     "$figmaStyleReferences": {}
-  },
-  {
-    "id": "03ae05996f6f738ef43dc56777ebd195c2c90d47",
-    "name": "Brand B dark",
-    "selectedTokenSets": {
-      "core": "source",
-      "bcore": "enabled",
-      "comp": "enabled",
-      "semantic": "enabled",
-      "AL": "disabled",
-      "AD": "disabled",
-      "BL": "enabled",
-      "BD": "enabled",
-      "CL": "disabled",
-      "CD": "disabled",
-      "INV-L": "disabled",
-      "INV-D": "disabled"
-    },
-    "$figmaStyleReferences": {}
   }
 ]
