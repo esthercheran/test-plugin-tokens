@@ -35,6 +35,10 @@
     "alias": {
       "value": "#000eff",
       "type": "color"
+    },
+    "new": {
+      "value": "#ffff",
+      "type": "color"
     }
   },
   "border-radius": {
