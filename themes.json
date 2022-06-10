@@ -8915,7 +8915,7 @@
   "testing-set": {
     "size": {
       "math": {
-        "value": "{size.alias}*2",
+        "value": "{size.raw}*2",
         "type": "sizing"
       },
       "raw": {
