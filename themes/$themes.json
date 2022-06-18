@@ -10,7 +10,8 @@
       "CL": "disabled",
       "CD": "disabled",
       "INV-L": "disabled",
-      "INV-D": "disabled"
+      "INV-D": "disabled",
+      "new_set": "disabled"
     },
     "$figmaStyleReferences": {
       "semantic/fg/default": "S:c3829389af40c60b979ccf49329c59bf5ceda251,",
@@ -664,7 +665,8 @@
       "CL": "disabled",
       "CD": "disabled",
       "INV-L": "disabled",
-      "INV-D": "disabled"
+      "INV-D": "disabled",
+      "new_set": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -681,7 +683,8 @@
       "INV-L": "disabled",
       "INV-D": "disabled",
       "Brand A/AD": "enabled",
-      "Brand A/AL": "enabled"
+      "Brand A/AL": "enabled",
+      "new_set": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -698,7 +701,8 @@
       "INV-L": "disabled",
       "INV-D": "disabled",
       "Brand B/BD": "enabled",
-      "Brand B/BL": "enabled"
+      "Brand B/BL": "enabled",
+      "new_set": "disabled"
     },
     "$figmaStyleReferences": {}
   }
