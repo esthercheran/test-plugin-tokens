@@ -36,6 +36,10 @@
       "value": "#000eff",
       "type": "color"
     },
+    "alias-1": {
+      "value": "#000000",
+      "type": "color"
+    },
     "blue": {
       "50": {
         "value": "#eff6ff",
