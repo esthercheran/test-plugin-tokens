@@ -1,7 +1,6 @@
-[
-  {
+{
+  "Brand A light": {
     "id": "209904835b07cce74565bed6d75e8220177e5ea0",
-    "name": "Brand A light",
     "selectedTokenSets": {
       "core": "source",
       "bcore": "enabled",
@@ -651,11 +650,11 @@
       "text-field/input-field/read-only/background-color": "S:8d3704da503341af72eb3d323334f6796d14f13d,",
       "text-field/input-field/read-only/border-color": "S:90614cf7a88dfb87641c40282f269737fba51bc0,",
       "semantic/ui/shadow": "S:c3a3469cda6e0e5358d9918ed0eafb5e4d2c6f4e,"
-    }
+    },
+    "type": "other"
   },
-  {
+  "Brand B light": {
     "id": "f8d9e175f20483204e4544d16f1a64d7b77b64b8",
-    "name": "Brand B light",
     "selectedTokenSets": {
       "core": "source",
       "bcore": "enabled",
@@ -666,11 +665,11 @@
       "INV-L": "disabled",
       "INV-D": "disabled"
     },
-    "$figmaStyleReferences": {}
+    "$figmaStyleReferences": {},
+    "type": "other"
   },
-  {
+  "Brand A dark": {
     "id": "f9af317a82f58797b08f1de7d4d403e172e9ffd2",
-    "name": "Brand A dark",
     "selectedTokenSets": {
       "core": "source",
       "bcore": "enabled",
@@ -683,11 +682,11 @@
       "Brand A/AD": "enabled",
       "Brand A/AL": "enabled"
     },
-    "$figmaStyleReferences": {}
+    "$figmaStyleReferences": {},
+    "type": "other"
   },
-  {
+  "Brand B dark": {
     "id": "03ae05996f6f738ef43dc56777ebd195c2c90d47",
-    "name": "Brand B dark",
     "selectedTokenSets": {
       "core": "source",
       "bcore": "enabled",
@@ -700,6 +699,7 @@
       "Brand B/BD": "enabled",
       "Brand B/BL": "enabled"
     },
-    "$figmaStyleReferences": {}
+    "$figmaStyleReferences": {},
+    "type": "other"
   }
-]
+}
