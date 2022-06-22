@@ -1,24 +1,10 @@
 {
-  "name": {
-    "value": "bc-design-tokens",
-    "type": "other"
-  },
-  "version": {
-    "value": "0.0.1",
-    "type": "other"
-  },
-  "private": {
-    "value": true,
-    "type": "other"
-  },
+  "name": "bc-design-tokens",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {},
   "dependencies": {
-    "style-dictionary": {
-      "value": "^3.1.1",
-      "type": "other"
-    },
-    "token-transformer": {
-      "value": "^0.0.17",
-      "type": "other"
-    }
+    "style-dictionary": "^3.1.1",
+    "token-transformer": "^0.0.17"
   }
 }
