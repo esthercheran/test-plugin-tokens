@@ -25,6 +25,10 @@
     "math": {
       "value": "{space.alias}*2",
       "type": "spacing"
+    },
+    "new": {
+      "value": "{space.math}",
+      "type": "spacing"
     }
   },
   "color": {
