@@ -9370,104 +9370,318 @@
       }
     }
   },
-  "$themes": [
-    {
-      "id": "209904835b07cce74565bed6d75e8220177e5ea0",
-      "name": "Brand A light",
-      "selectedTokenSets": {
-        "core": "source",
-        "bcore": "enabled",
-        "comp": "enabled",
-        "semantic": "enabled",
-        "AL": "enabled",
-        "AD": "disabled",
-        "BL": "disabled",
-        "BD": "disabled",
-        "CL": "disabled",
-        "CD": "disabled",
-        "INV-L": "disabled",
-        "INV-D": "disabled"
+  "$themes": {
+    "0": {
+      "id": {
+        "value": "209904835b07cce74565bed6d75e8220177e5ea0",
+        "type": "other"
       },
-      "$figmaStyleReferences": {}
+      "name": {
+        "value": "Brand A light",
+        "type": "other"
+      },
+      "selectedTokenSets": {
+        "core": {
+          "value": "source",
+          "type": "other"
+        },
+        "bcore": {
+          "value": "enabled",
+          "type": "other"
+        },
+        "comp": {
+          "value": "enabled",
+          "type": "other"
+        },
+        "semantic": {
+          "value": "enabled",
+          "type": "other"
+        },
+        "AL": {
+          "value": "enabled",
+          "type": "other"
+        },
+        "AD": {
+          "value": "disabled",
+          "type": "other"
+        },
+        "BL": {
+          "value": "disabled",
+          "type": "other"
+        },
+        "BD": {
+          "value": "disabled",
+          "type": "other"
+        },
+        "CL": {
+          "value": "disabled",
+          "type": "other"
+        },
+        "CD": {
+          "value": "disabled",
+          "type": "other"
+        },
+        "INV-L": {
+          "value": "disabled",
+          "type": "other"
+        },
+        "INV-D": {
+          "value": "disabled",
+          "type": "other"
+        }
+      }
     },
-    {
-      "id": "f9af317a82f58797b08f1de7d4d403e172e9ffd2",
-      "name": "Brand A dark",
-      "selectedTokenSets": {
-        "core": "source",
-        "bcore": "enabled",
-        "comp": "enabled",
-        "semantic": "enabled",
-        "AL": "enabled",
-        "AD": "enabled",
-        "BL": "disabled",
-        "BD": "disabled",
-        "CL": "disabled",
-        "CD": "disabled",
-        "INV-L": "disabled",
-        "INV-D": "disabled"
+    "1": {
+      "id": {
+        "value": "f9af317a82f58797b08f1de7d4d403e172e9ffd2",
+        "type": "other"
       },
-      "$figmaStyleReferences": {}
+      "name": {
+        "value": "Brand A dark",
+        "type": "other"
+      },
+      "selectedTokenSets": {
+        "core": {
+          "value": "source",
+          "type": "other"
+        },
+        "bcore": {
+          "value": "enabled",
+          "type": "other"
+        },
+        "comp": {
+          "value": "enabled",
+          "type": "other"
+        },
+        "semantic": {
+          "value": "enabled",
+          "type": "other"
+        },
+        "AL": {
+          "value": "enabled",
+          "type": "other"
+        },
+        "AD": {
+          "value": "enabled",
+          "type": "other"
+        },
+        "BL": {
+          "value": "disabled",
+          "type": "other"
+        },
+        "BD": {
+          "value": "disabled",
+          "type": "other"
+        },
+        "CL": {
+          "value": "disabled",
+          "type": "other"
+        },
+        "CD": {
+          "value": "disabled",
+          "type": "other"
+        },
+        "INV-L": {
+          "value": "disabled",
+          "type": "other"
+        },
+        "INV-D": {
+          "value": "disabled",
+          "type": "other"
+        }
+      }
     },
-    {
-      "id": "f8d9e175f20483204e4544d16f1a64d7b77b64b8",
-      "name": "Brand B light",
-      "selectedTokenSets": {
-        "core": "source",
-        "bcore": "enabled",
-        "comp": "enabled",
-        "semantic": "enabled",
-        "AL": "disabled",
-        "AD": "disabled",
-        "BL": "enabled",
-        "BD": "disabled",
-        "CL": "disabled",
-        "CD": "disabled",
-        "INV-L": "disabled",
-        "INV-D": "disabled"
+    "2": {
+      "id": {
+        "value": "f8d9e175f20483204e4544d16f1a64d7b77b64b8",
+        "type": "other"
       },
-      "$figmaStyleReferences": {}
+      "name": {
+        "value": "Brand B light",
+        "type": "other"
+      },
+      "selectedTokenSets": {
+        "core": {
+          "value": "source",
+          "type": "other"
+        },
+        "bcore": {
+          "value": "enabled",
+          "type": "other"
+        },
+        "comp": {
+          "value": "enabled",
+          "type": "other"
+        },
+        "semantic": {
+          "value": "enabled",
+          "type": "other"
+        },
+        "AL": {
+          "value": "disabled",
+          "type": "other"
+        },
+        "AD": {
+          "value": "disabled",
+          "type": "other"
+        },
+        "BL": {
+          "value": "enabled",
+          "type": "other"
+        },
+        "BD": {
+          "value": "disabled",
+          "type": "other"
+        },
+        "CL": {
+          "value": "disabled",
+          "type": "other"
+        },
+        "CD": {
+          "value": "disabled",
+          "type": "other"
+        },
+        "INV-L": {
+          "value": "disabled",
+          "type": "other"
+        },
+        "INV-D": {
+          "value": "disabled",
+          "type": "other"
+        }
+      }
     },
-    {
-      "id": "03ae05996f6f738ef43dc56777ebd195c2c90d47",
-      "name": "Brand B dark",
-      "selectedTokenSets": {
-        "core": "source",
-        "bcore": "enabled",
-        "comp": "enabled",
-        "semantic": "enabled",
-        "AL": "disabled",
-        "AD": "disabled",
-        "BL": "enabled",
-        "BD": "enabled",
-        "CL": "disabled",
-        "CD": "disabled",
-        "INV-L": "disabled",
-        "INV-D": "disabled"
+    "3": {
+      "id": {
+        "value": "03ae05996f6f738ef43dc56777ebd195c2c90d47",
+        "type": "other"
       },
-      "$figmaStyleReferences": {}
+      "name": {
+        "value": "Brand B dark",
+        "type": "other"
+      },
+      "selectedTokenSets": {
+        "core": {
+          "value": "source",
+          "type": "other"
+        },
+        "bcore": {
+          "value": "enabled",
+          "type": "other"
+        },
+        "comp": {
+          "value": "enabled",
+          "type": "other"
+        },
+        "semantic": {
+          "value": "enabled",
+          "type": "other"
+        },
+        "AL": {
+          "value": "disabled",
+          "type": "other"
+        },
+        "AD": {
+          "value": "disabled",
+          "type": "other"
+        },
+        "BL": {
+          "value": "enabled",
+          "type": "other"
+        },
+        "BD": {
+          "value": "enabled",
+          "type": "other"
+        },
+        "CL": {
+          "value": "disabled",
+          "type": "other"
+        },
+        "CD": {
+          "value": "disabled",
+          "type": "other"
+        },
+        "INV-L": {
+          "value": "disabled",
+          "type": "other"
+        },
+        "INV-D": {
+          "value": "disabled",
+          "type": "other"
+        }
+      }
     },
-    {
-      "id": "4ecffec08660635c6a1954a044677620d6afb24b",
-      "name": "Brand I",
-      "selectedTokenSets": {
-        "core": "source",
-        "bcore": "enabled",
-        "comp": "enabled",
-        "semantic": "enabled",
-        "AL": "disabled",
-        "AD": "disabled",
-        "BL": "disabled",
-        "BD": "disabled",
-        "CL": "disabled",
-        "CD": "disabled",
-        "INV-L": "enabled",
-        "INV-D": "disabled",
-        "32-may-test-set": "disabled",
-        "31-may-test-set": "disabled",
-        "testing-set": "disabled"
+    "4": {
+      "id": {
+        "value": "4ecffec08660635c6a1954a044677620d6afb24b",
+        "type": "other"
       },
-      "$figmaStyleReferences": {}
+      "name": {
+        "value": "Brand I",
+        "type": "other"
+      },
+      "selectedTokenSets": {
+        "core": {
+          "value": "source",
+          "type": "other"
+        },
+        "bcore": {
+          "value": "enabled",
+          "type": "other"
+        },
+        "comp": {
+          "value": "enabled",
+          "type": "other"
+        },
+        "semantic": {
+          "value": "enabled",
+          "type": "other"
+        },
+        "AL": {
+          "value": "disabled",
+          "type": "other"
+        },
+        "AD": {
+          "value": "disabled",
+          "type": "other"
+        },
+        "BL": {
+          "value": "disabled",
+          "type": "other"
+        },
+        "BD": {
+          "value": "disabled",
+          "type": "other"
+        },
+        "CL": {
+          "value": "disabled",
+          "type": "other"
+        },
+        "CD": {
+          "value": "disabled",
+          "type": "other"
+        },
+        "INV-L": {
+          "value": "enabled",
+          "type": "other"
+        },
+        "INV-D": {
+          "value": "disabled",
+          "type": "other"
+        },
+        "32-may-test-set": {
+          "value": "disabled",
+          "type": "other"
+        },
+        "31-may-test-set": {
+          "value": "disabled",
+          "type": "other"
+        },
+        "testing-set": {
+          "value": "disabled",
+          "type": "other"
+        }
+      }
     }
-  ]
+  }
 }
