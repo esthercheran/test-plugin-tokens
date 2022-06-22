@@ -40,6 +40,10 @@
       "900": {
         "value": "#002680",
         "type": "color"
+      },
+      "new": {
+        "value": "#00f6ff",
+        "type": "color"
       }
     }
   }
