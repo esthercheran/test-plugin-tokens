@@ -3,6 +3,7 @@
     "core",
     "bcore",
     "comp",
+    "semantic",
     "AL",
     "AD",
     "BL",
@@ -10,6 +11,8 @@
     "CL",
     "CD",
     "INV-L",
-    "INV-D"
+    "INV-D",
+    "completely_new_set",
+    "testing-set"
     ]
 }
