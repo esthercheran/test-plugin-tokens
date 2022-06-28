@@ -1,1 +1,14 @@
-
+{
+  "tokenSetOrder": [
+    "core",
+    "bcore",
+    "comp",
+    "AL",
+    "AD",
+    "BL",
+    "BD",
+    "CL",
+    "CD",
+    "INV-L",
+    "INV-D"
+}
