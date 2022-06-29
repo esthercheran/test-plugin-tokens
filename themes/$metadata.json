@@ -1,7 +1,5 @@
 {
   "tokenSetOrder": [
-    "31-may-test-set",
-    "32-may-test-set",
     "AD",
     "AL-Test",
     "AL",
@@ -15,6 +13,8 @@
     "INV-L",
     "semantic",
     "test",
-    "testing-set"
+    "testing-set",
+    "31-may-test-set",
+    "32-may-test-set"
   ]
 }
