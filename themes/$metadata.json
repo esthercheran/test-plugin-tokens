@@ -1,0 +1,19 @@
+{
+  "tokenSetOrder": [
+    "31-may-test-set",
+    "32-may-test-set",
+    "AD",
+    "AL",
+    "bcore",
+    "BD",
+    "BL",
+    "CD",
+    "CL",
+    "comp",
+    "core",
+    "INV-D",
+    "INV-L",
+    "semantic",
+    "testing-set"
+  ]
+}
