@@ -1,5 +1,6 @@
 {
   "tokenSetOrder": [
+    "semantic",
     "core",
     "comp",
     "AD",
@@ -11,7 +12,6 @@
     "CL",
     "INV-D",
     "INV-L",
-    "semantic",
     "test",
     "testing-set"
   ]
