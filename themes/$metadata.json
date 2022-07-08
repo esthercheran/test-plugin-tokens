@@ -4,13 +4,13 @@
     "bcore",
     "comp",
     "semantic",
-    "AD",
     "AL",
+    "AD",
     "BL",
-    "CD",
     "CL",
-    "INV-D",
+    "CD",
     "INV-L",
+    "INV-D",
     "testing-set-1",
     "AL-Test"
   ]
