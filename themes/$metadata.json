@@ -1,0 +1,13 @@
+{
+  "tokenSetOrder": [
+    "core",
+    "bcore",
+    "comp",
+    "semantic",
+    "CD",
+    "CL",
+    "INV-D",
+    "INV-L",
+    "new_set_1"
+  ]
+}
