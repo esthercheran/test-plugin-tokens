@@ -4,15 +4,9 @@
     "bcore",
     "comp",
     "semantic",
-    "Brand A/Light",
-    "Brand A/Dark",
-    "Brand B/Light",
-    "Brand B/Dark",
-    "Brand C/Light",
-    "Brand C/Dark",
-    "INV-L",
-    "INV-D",
+    "testing-set",
     "completely_new_set",
-    "testing-set"
+    "INV-L",
+    "INV-D"
   ]
 }
