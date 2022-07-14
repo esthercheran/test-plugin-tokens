@@ -1,0 +1,10 @@
+{
+  "tokenSetOrder": [
+    "core",
+    "bcore",
+    "comp",
+    "semantic",
+    "testing-set-1",
+    "AL-Test"
+  ]
+}
