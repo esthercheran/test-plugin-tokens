@@ -82,12 +82,16 @@
         "type": "color"
       }
     },
-    "red": {
+    "something": {
       "value": "{color.red.100}",
       "type": "color"
     },
-    "sky": {
+    "default": {
       "value": "{color.sky.100}",
+      "type": "color"
+    },
+    "test": {
+      "value": "{color.neutrals.black}",
       "type": "color"
     }
   },
