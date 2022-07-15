@@ -81,6 +81,14 @@
         "value": "#1e3a8a",
         "type": "color"
       }
+    },
+    "red": {
+      "value": "{color.red.100}",
+      "type": "color"
+    },
+    "sky": {
+      "value": "{color.sky.100}",
+      "type": "color"
     }
   },
   "border-radius": {
