@@ -722,14 +722,6 @@
       "padding-right": {
         "value": "{semantic.spacing.actions.small.padding-right}",
         "type": "spacing"
-      },
-      "icon-size": {
-        "value": "{semantic.sizing.actions.icon-size.small}",
-        "type": "sizing"
-      },
-      "height": {
-        "value": "{semantic.sizing.actions.small}",
-        "type": "sizing"
       }
     },
     "m": {
@@ -752,14 +744,6 @@
       "padding-bottom": {
         "value": "{semantic.spacing.actions.medium.padding-bottom}",
         "type": "spacing"
-      },
-      "icon-size": {
-        "value": "{semantic.sizing.actions.icon-size.medium}",
-        "type": "sizing"
-      },
-      "height": {
-        "value": "{semantic.sizing.actions.medium}",
-        "type": "sizing"
       }
     },
     "l": {
@@ -782,14 +766,6 @@
       "padding-bottom": {
         "value": "{semantic.spacing.actions.large.padding-bottom}",
         "type": "spacing"
-      },
-      "icon-size": {
-        "value": "{semantic.sizing.actions.icon-size.large}",
-        "type": "sizing"
-      },
-      "height": {
-        "value": "{semantic.sizing.actions.large}",
-        "type": "sizing"
       }
     },
     "xl": {
@@ -812,14 +788,6 @@
       "padding-bottom": {
         "value": "{semantic.spacing.actions.extra-large.padding-bottom}",
         "type": "spacing"
-      },
-      "icon-size": {
-        "value": "{semantic.sizing.actions.icon-size.extra-large}",
-        "type": "sizing"
-      },
-      "height": {
-        "value": "{semantic.sizing.actions.extra-large}",
-        "type": "sizing"
       }
     },
     "line-height": {
