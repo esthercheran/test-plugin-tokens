@@ -1,56 +1,17 @@
 {
-  "tokenSetOrder": {
-    "0": {
-      "value": "core",
-      "type": "other"
-    },
-    "1": {
-      "value": "bcore",
-      "type": "other"
-    },
-    "2": {
-      "value": "comp",
-      "type": "other"
-    },
-    "3": {
-      "value": "semantic",
-      "type": "other"
-    },
-    "4": {
-      "value": "AL",
-      "type": "other"
-    },
-    "5": {
-      "value": "AD",
-      "type": "other"
-    },
-    "6": {
-      "value": "BL",
-      "type": "other"
-    },
-    "7": {
-      "value": "CL",
-      "type": "other"
-    },
-    "8": {
-      "value": "CD",
-      "type": "other"
-    },
-    "9": {
-      "value": "INV-L",
-      "type": "other"
-    },
-    "10": {
-      "value": "INV-D",
-      "type": "other"
-    },
-    "11": {
-      "value": "testing-set-1",
-      "type": "other"
-    },
-    "12": {
-      "value": "AL-Test",
-      "type": "other"
-    }
-  }
+  "tokenSetOrder": [
+    "core",
+    "bcore",
+    "AD",
+    "AL-Test",
+    "AL",
+    "BL",
+    "CD",
+    "CL",
+    "comp",
+    "INV-D",
+    "INV-L",
+    "semantic",
+    "testing-set-1"
+  ]
 }
