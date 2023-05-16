@@ -1,16 +1,12 @@
 [
   {
     "id": "cae1effeb0f9eeb4693730ab3474dd6655d0ce0a",
-    "name": "Brand INV",
+    "name": "Brand-A/Light",
     "selectedTokenSets": {
       "core": "source",
-      "bcore": "disabled",
       "comp": "enabled",
       "semantic": "enabled",
-      "testing-set": "disabled",
-      "completely_new_set": "disabled",
-      "INV-L": "enabled",
-      "INV-D": "disabled"
+      "Brand-A/light": "enabled"
     },
     "$figmaStyleReferences": {
       "semantic.fg.default": "S:744b35839781e007841f1fa7922130ec150dad4b,",
@@ -653,5 +649,17 @@
       "text-field.input-field.read-only.border-color": "S:95c33c9f8b320fd4bebf7365cc829cfa269bd32a,",
       "semantic.ui.shadow": "S:557d56adafcd97c07355dc2fb1588613282453b8,"
     }
+  },
+  {
+    "id": "21252a2753609744a934fa86090d97e0f6cb8629",
+    "name": "Brand-A/Dark",
+    "selectedTokenSets": {
+      "core": "source",
+      "comp": "enabled",
+      "semantic": "enabled",
+      "Brand-A/light": "enabled",
+      "Brand-A/dark": "enabled"
+    },
+    "$figmaStyleReferences": {}
   }
 ]

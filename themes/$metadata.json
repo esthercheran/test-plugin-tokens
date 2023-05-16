@@ -1,12 +1,9 @@
 {
   "tokenSetOrder": [
     "core",
-    "bcore",
     "comp",
     "semantic",
-    "testing-set",
-    "completely_new_set",
-    "INV-L",
-    "INV-D"
+    "Brand-A/light",
+    "Brand-A/dark"
   ]
 }
