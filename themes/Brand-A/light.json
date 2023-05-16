@@ -227,8 +227,8 @@
       "value": {
         "fill": "{semantic.bg.surface}",
         "borderRadius": "{semantic.ui.border-radius.card}",
-        "spacing": "{semantic.spacing.actions.large.padding-bottom}",
-        "boxShadow": "{semantic.ui.shadow}"
+        "boxShadow": "{semantic.ui.shadow}",
+        "paddingBottom": "32"
       },
       "type": "composition"
     },
@@ -245,6 +245,10 @@
         "fontSizes": "{semantic.font-size.typography.heading.l}"
       },
       "type": "composition"
+    },
+    "image": {
+      "value": "https://images.unsplash.com/photo-1682685796002-e05458d61f07?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2371&q=80",
+      "type": "asset"
     }
   }
 }
