@@ -221,5 +221,30 @@
         "type": "borderRadius"
       }
     }
+  },
+  "card": {
+    "bg": {
+      "value": {
+        "fill": "{semantic.bg.surface}",
+        "borderRadius": "{semantic.ui.border-radius.card}",
+        "spacing": "{semantic.spacing.actions.large.padding-bottom}",
+        "boxShadow": "{semantic.ui.shadow}"
+      },
+      "type": "composition"
+    },
+    "content": {
+      "value": {
+        "fill": "{semantic.fg.default}",
+        "fontSizes": "{semantic.font-size.typography.body.xxl}"
+      },
+      "type": "composition"
+    },
+    "title": {
+      "value": {
+        "fill": "{semantic.fg.accent}",
+        "fontSizes": "{semantic.font-size.typography.heading.l}"
+      },
+      "type": "composition"
+    }
   }
 }
