@@ -250,5 +250,14 @@
       "value": "https://images.unsplash.com/photo-1682685796002-e05458d61f07?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2371&q=80",
       "type": "asset"
     }
+  },
+  "headlines-1": {
+    "value": {
+      "fontFamily": "{font-family.serif}",
+      "fontWeight": "{font-weight.regular}",
+      "fontSize": "{font-size.4}",
+      "lineHeight": "{line-height.100}"
+    },
+    "type": "typography"
   }
 }
