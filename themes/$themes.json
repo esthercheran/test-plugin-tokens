@@ -7,16 +7,10 @@
       "bcore": "enabled",
       "comp": "enabled",
       "semantic": "enabled",
-      "AL": "enabled",
-      "AD": "disabled",
-      "BL": "disabled",
-      "CL": "disabled",
-      "CD": "disabled",
-      "INV-L": "disabled",
-      "INV-D": "disabled",
-      "testing-set-1": "disabled"
+      "AL": "enabled"
     },
-    "$figmaStyleReferences": {}
+    "$figmaStyleReferences": {},
+    "group": "Brand"
   },
   {
     "id": "f9af317a82f58797b08f1de7d4d403e172e9ffd2",
@@ -27,15 +21,10 @@
       "comp": "enabled",
       "semantic": "enabled",
       "AL": "enabled",
-      "AD": "enabled",
-      "BL": "disabled",
-      "CL": "disabled",
-      "CD": "disabled",
-      "INV-L": "disabled",
-      "INV-D": "disabled",
-      "testing-set-1": "disabled"
+      "AD": "enabled"
     },
-    "$figmaStyleReferences": {}
+    "$figmaStyleReferences": {},
+    "group": "Brand"
   },
   {
     "id": "f8d9e175f20483204e4544d16f1a64d7b77b64b8",
@@ -45,15 +34,9 @@
       "bcore": "enabled",
       "comp": "enabled",
       "semantic": "enabled",
-      "AL": "disabled",
-      "AD": "disabled",
-      "BL": "enabled",
-      "CL": "disabled",
-      "CD": "disabled",
-      "INV-L": "disabled",
-      "INV-D": "disabled",
-      "testing-set-1": "disabled"
+      "BL": "enabled"
     },
-    "$figmaStyleReferences": {}
+    "$figmaStyleReferences": {},
+    "group": "Brand"
   }
 ]
