@@ -2,7 +2,7 @@
   "semantic": {
     "fg": {
       "default": {
-        "value": "{color.neutrals.black}",
+        "value": "{color.neutrals.white}",
         "type": "color"
       },
       "subtle": {
