@@ -30,7 +30,7 @@
         "type": "color"
       },
       "productBrand": {
-        "value": "#003049",
+        "value": "{color.lime.900}",
         "type": "color"
       }
     },
