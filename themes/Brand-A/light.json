@@ -30,7 +30,7 @@
         "type": "color"
       },
       "productBrand": {
-        "value": "{color.lime.900}",
+        "value": "{color.purple.500}",
         "type": "color"
       }
     },

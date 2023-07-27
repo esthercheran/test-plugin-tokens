@@ -650,7 +650,6 @@
       "semantic": "enabled",
       "Brand-A/light": "enabled"
     },
-    "group": "brand",
     "$figmaCollectionId": "VariableCollectionId:102:3",
     "$figmaModeId": "102:1",
     "$figmaVariableReferences": {
@@ -1577,7 +1576,8 @@
       "text-field.xl.space-between": "f3e68ba9b9f4f8e4e8f52f1b72b98165bee692a6",
       "text-field.input-field.border-radius": "e3358d74ae40822fdd70349afd729b675af1a854",
       "text-field.input-field.border-width": "47b1da09fe3f3c8e248beae66fac0c334bf457ac"
-    }
+    },
+    "group": "brand"
   },
   {
     "id": "21252a2753609744a934fa86090d97e0f6cb8629",
